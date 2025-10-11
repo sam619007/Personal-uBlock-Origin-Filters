@@ -94,10 +94,6 @@ claude.ai##.top-3\.5.right-2.absolute.sm\:static.select-none.text-text-500.bg-bg
 timesofindia.indiatimes.com##[src]
 timesofindia.indiatimes.com##.YSIbF.F9Ip_
 
-! 19 Sept 2025 https://www.perplexity.ai
-www.perplexity.ai##.items-stretch.flex-col.cursor-pointer.flex.group.border-t-subtlest.gap-sm
-www.perplexity.ai##div.\[\&\:only-child\]\:border-0.last\:border-b.px-4.border-t.flex-col.grow.flex.-mx-4.last\:border-b-subtlest.border-t-subtlest.p-sm
-
 ! 19 Sept 2025 https://chatgpt.com
 chatgpt.com##.pe-4.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-2.focus-visible\:ring-token-text-tertiary.motion-safe\:ease-out.motion-safe\:duration-150.motion-safe\:transition-colors.hover\:bg-token-surface-hover.shadow-short.bg-primary.sm\:gap-2.sm\:justify-start.ps-3.py-2.rounded-full.gap-1\.5.justify-center.items-center.w-full.flex.group
 chatgpt.com##.motion-safe\:duration-150.motion-safe\:transition-colors.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-2.focus-visible\:ring-token-text-tertiary.p-2.border-\[\.5px\].border.border-token-border-default.text-xs.pe-4.ps-4.py-3.rounded-t-2xl.justify-between.items-center.w-full.flex.z-10.relative.hover\:bg-token-main-surface-secondary.text-token-text-primary.sm\:bg-token-main-surface-primary.group
@@ -125,9 +121,6 @@ chat.mistral.ai##.font-medium.px-3.bg-none.rounded-full.gap-3.text-sm.h-9.aria-d
 frontline.thehindu.com###piano-sec-top
 frontline.thehindu.com###piano-sec-subscribe-box
 frontline.thehindu.com###piano-sec-bottom
-
-! 4 Oct 2025 https://www.perplexity.ai
-www.perplexity.ai##div.\[\&\:only-child\]\:border-0.last\:border-b.px-4.border-t.flex-col.grow.flex.-mx-4.last\:border-b-subtlest.border-t-subtlest.p-md
 
 ! 4 Oct 2025 https://www.thequint.com
 www.thequint.com##._2lTVq
