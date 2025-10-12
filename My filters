@@ -161,8 +161,3 @@ chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
 open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
 
-! 12 Oct 2025 https://www.perplexity.ai
-www.perplexity.ai#@#button[data-testid="share-button"]
-www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-lg.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:opacity-80.text-inverse.bg-super
-www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:opacity-80.text-inverse.bg-super
-
