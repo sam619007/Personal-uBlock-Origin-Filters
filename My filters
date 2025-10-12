@@ -166,4 +166,5 @@ www.perplexity.ai##div.last\:border-b.last\:border-b-subtlest.\[\&\:only-child\]
 www.perplexity.ai#@#button[data-testid="share-button"]
 www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-lg.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:opacity-80.text-inverse.bg-super
 www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:opacity-80.text-inverse.bg-super
-
+https://www.perplexity.ai/discover
+perplexity.ai#@#button[data-testid="share-button"]
