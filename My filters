@@ -161,5 +161,7 @@ chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
 open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
 
+! 12 Oct 2025 https://www.perplexity.ai
+www.perplexity.ai##div.last\:border-b.last\:border-b-subtlest.\[\&\:only-child\]\:border-0.px-4.border-t.flex-col.grow.flex.-mx-4.border-t-subtlest.p-md
 perplexity.ai#@#button[data-testid="share-button"]
 perplexity.ai#@#button:has(> div > svg[data-icon="share"])
