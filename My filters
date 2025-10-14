@@ -166,3 +166,7 @@ www.perplexity.ai##div.last\:border-b.last\:border-b-subtlest.\[\&\:only-child\]
 
 perplexity.ai#@#button[data-testid="share-button"]
 perplexity.ai#@#button:has(> div > svg[data-icon="share"])
+
+! 15 Oct 2025 https://www.thehindu.com
+www.thehindu.com##.col-12.col-sm-12.col-md-12.col-lg-4.col-xl-3.print-hide
+
