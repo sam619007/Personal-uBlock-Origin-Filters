@@ -184,3 +184,13 @@ www.hindustantimes.com##.paywall-container
 www.livemint.com##.sr1
 www.livemint.com##.storyPage_storyContent__3xuFc > div:nth-of-type(3)
 
+! 15 Oct 2025 https://www.newindianexpress.com
+www.newindianexpress.com###breaking-news-container
+
+! 16 Oct 2025 https://www.hindustantimes.com
+www.hindustantimes.com##.bottomFixAd
+www.hindustantimes.com##.story_progress_bar.ProgressBar_story_progress_bar__OirQn
+
+! 18 Oct 2025 https://www.perplexity.ai
+www.perplexity.ai##.px-3.h-10.text-base.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.dark\:hover\:bg-subtle.hover\:text-foreground.text-quiet.hover\:bg-subtle.focus-visible\:bg-subtle
+
