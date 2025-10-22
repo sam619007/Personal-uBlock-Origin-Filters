@@ -194,3 +194,8 @@ www.hindustantimes.com##.story_progress_bar.ProgressBar_story_progress_bar__OirQ
 ! 18 Oct 2025 https://www.perplexity.ai
 www.perplexity.ai##.px-3.h-10.text-base.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.dark\:hover\:bg-subtle.hover\:text-foreground.text-quiet.hover\:bg-subtle.focus-visible\:bg-subtle
 
+! 22 Oct 2025 https://chatgpt.com
+chatgpt.com##.pe-2\.5.ps-2.py-1\.5.cursor-default.-me-2\.5.-ms-2.-my-1\.5.__menu-item-trailing-btn
+chatgpt.com##.dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].bg-\[\#F1F1FB\].py-2.font-medium.text-sm.rounded-full.gap-1.items-center.inline-flex
+chatgpt.com##.motion-safe\:delay-\[175ms\].opacity-100.motion-safe\:ease-out.motion-safe\:duration-200.motion-safe\:transition-opacity.gap-1\.5.hoverable.__menu-item.group
+
