@@ -210,3 +210,25 @@ www.perplexity.ai##.bg-super.divide-subtlest.ring-subtlest.border-subtlest.justi
 
 ! 3 Nov 2025 https://www.perplexity.ai
 www.perplexity.ai##.rounded-lg.px-3.hover\:opacity-80.inline-flex.origin-center.cursor-pointer.text-sm.h-8.text-inverse.border-transparent.border.bg-super.whitespace-nowrap.leading-loose.justify-center.items-center.text-center.font-sans.font-semimedium.select-none.interactable.reset
+
+! 6 Nov 2025 https://claude.ai
+claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.px-2\.5.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
+
+! 9 Nov 2025 https://www.kimi.com
+www.kimi.com##.membership-upgrade
+www.kimi.com##.header-right
+
+! 9 Nov 2025 https://agent.minimax.io
+agent.minimax.io##.h-8.pr-\[10px\].pl-\[6px\].rounded-\[8px\].border-col_line00.border.hover\:bg-col_bg12.gap-1.items-center.flex.ml-4.text-col_text00
+
+! 9 Nov 2025 https://www.cnbctv18.com
+www.cnbctv18.com###install_app_btn
+
+! 10 Nov 2025 https://ernie.baidu.com
+ernie.baidu.com##.footer--bottomInputStyle__lrrzRTld.footer__PPSho3NC.footer__du6PsobB
+ernie.baidu.com##.footer--centerInputStyle__BDpSoxGh.footer__PPSho3NC.footer__du6PsobB
+
+! 10 Nov 2025 https://www.perplexity.ai
+www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:opacity-80.text-inverse.bg-super
+www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-lg.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:opacity-80.text-inverse.bg-super
+
