@@ -373,3 +373,30 @@ reddit.com#@#shreddit-ai-summary
 @@||openai.com^$domain=third-party
 @@||anthropic.com^$domain=third-party
 
+! --- Unblock Google AI Overviews (Broad cosmetic exceptions) ---
+! Unblock by specific ID/Data attributes (Most stable)
+google.*#@#[data-attrid="ai-overview"]
+google.*#@#div[data-attrid="ai-overview"]
+google.*#@#div:has(> [data-attrid="ai-overview"])
+
+! Unblock by class names (Commonly used by blocklists)
+google.*#@#.M8OgIe
+google.*#@#.wTYtEc
+google.*#@#.U7izfe
+google.*#@#.g.M8OgIe
+google.*#@#.g.wTYtEc
+
+! Unblock by Text Content (If classes change)
+! These tell the blocker: "Do not hide any DIV that directly contains the text 'AI Overview'"
+google.*#@#div:has-text(/^AI Overview$/)
+google.*#@#div:has(> h1:has-text(/^AI Overview$/))
+google.*#@#div:has(> div > h1:has-text(/^AI Overview$/))
+google.*#@#span:has-text(/^AI Overview$/)
+
+! --- Unblock Network Requests (If the data itself is being blocked) ---
+! These ensure the browser is allowed to fetch the AI data from Google servers.
+@@||google.*/async/new_tab_promos$xhr,domain=google.*
+@@||google.*/search?$xhr,domain=google.*
+@@||google.*/complete/search$xhr,domain=google.*
+
+
