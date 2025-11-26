@@ -323,15 +323,3 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 @@||www.google.co.in^$elemhide
 @@||www.google.com^$generichide
 @@||www.google.co.in^$generichide
-
-! --- FIX: Stop Dandelion Sprout from breaking Google AI ---
-! This allows Google to use tracking parameters required for AI authentication
-@@||google.com^$removeparam
-@@||google.co.in^$removeparam
-@@||www.google.com^$removeparam
-@@||www.google.co.in^$removeparam
-
-! --- FIX: Unblock the AI Network Request (Just in case) ---
-@@||google.com/async/folsrch$xhr
-@@||google.co.in/async/folsrch$xhr
-
