@@ -235,6 +235,9 @@ www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-cen
 ! 12 Nov 2025 https://www.youtube.com
 www.youtube.com###sponsor-button
 
+! 14 Nov 2025 https://notebooklm.google.com
+notebooklm.google.com##.ng-star-inserted.ng-tns-c2287526256-0.mat-body-small.footer
+
 ! 17 Nov 2025 https://www.makemytrip.com
 www.makemytrip.com##.AppDownloadBanner_container__zntqv
 
@@ -262,141 +265,5 @@ www.tribuneindia.com##.pref_src_main_container
 m.thewire.in###wa2-span-popup
 m.thewire.in##.active
 thewire.in###wa2-span-popup
-
-! Unblock Google AI Overviews (Structural Targeting)
-! Targets the main AI container based on data attributes
-google.*#@#div[data-lhcontainer="1"][id][data-hveid] > div[data-mcpr][data-mg-cp][data-mcp]
-google.*#@#div[data-q][data-al]
-
-! Unblock common dynamic classes used for SGE (generative) sections
-google.*#@#.M8OgIe
-google.*#@#.wTYtEc
-google.*#@#[data-attrid^="wa:/google/search/generative_ai"]
-
-! Specific rule to unhide the "Show more" button if hidden
-google.*#@#div[role="button"]:has-text(/Show more/)
-
-! --- GOOGLE AI OVERVIEW UNBREAK (NUCLEAR MODE) ---
-! 1. Allow the main "batchexecute" API (The AI Engine)
-@@||google.com/*/batchexecute?$xhr,domain=google.com
-@@||google.co.in/*/batchexecute?$xhr,domain=google.co.in
-@@||google.com/*/batchexecute?
-@@||google.co.in/*/batchexecute?
-
-! 2. Allow "Async" background data fetches (Used for live updates)
-@@||google.com/async/*$xhr,domain=google.com
-@@||google.co.in/async/*$xhr,domain=google.co.in
-@@||google.com/async/folsrch?$xhr
-@@||google.co.in/async/folsrch?$xhr
-
-! 3. Allow Google "Generative" specific scripts
-@@||google.com/xjs/*$script,domain=google.com
-@@||google.co.in/xjs/*$script,domain=google.co.in
-
-! 4. Disable Cosmetic Filtering ONLY for Google Search (The "Sledgehammer")
-! This forces AdGuard/uBlock to stop hiding "annoyances" on Google, while keeping them blocked elsewhere.
-@@||www.google.com^$elemhide
-@@||www.google.co.in^$elemhide
-@@||www.google.com^$generichide
-@@||www.google.co.in^$generichide
-
-! --- GOOGLE AI OVERVIEW UNBREAK (NUCLEAR MODE) ---
-! 1. Allow the main "batchexecute" API (The AI Engine)
-@@||google.com/*/batchexecute?$xhr,domain=google.com
-@@||google.co.in/*/batchexecute?$xhr,domain=google.co.in
-@@||google.com/*/batchexecute?
-@@||google.co.in/*/batchexecute?
-
-! 2. Allow "Async" background data fetches (Used for live updates)
-@@||google.com/async/*$xhr,domain=google.com
-@@||google.co.in/async/*$xhr,domain=google.co.in
-@@||google.com/async/folsrch?$xhr
-@@||google.co.in/async/folsrch?$xhr
-
-! 3. Allow Google "Generative" specific scripts
-@@||google.com/xjs/*$script,domain=google.com
-@@||google.co.in/xjs/*$script,domain=google.co.in
-
-! 4. Disable Cosmetic Filtering ONLY for Google Search (The "Sledgehammer")
-! This forces AdGuard/uBlock to stop hiding "annoyances" on Google, while keeping them blocked elsewhere.
-@@||www.google.com^$elemhide
-@@||www.google.co.in^$elemhide
-@@||www.google.com^$generichide
-@@||www.google.co.in^$generichide
-
-! Re-enable Bing Chat / Copilot
-bing.com#@#.cib-serp-main
-bing.com#@#div[id*="b_copilot"]
-bing.com#@#.b_scopebar_copilot
-@@||bing.com/turing/ $domain=bing.com
-
-! Re-enable Google AI Overviews (Search Generative Experience)
-! Note: Google frequently changes class names; these rules target structural elements.
-google.*#@#div:has(> div > h1:has-text(/^AI Overview$/))
-google.*#@#div[class*="M8OgIe"]
-google.*#@#.rv4fde
-
-! Re-enable DuckDuckGo AI Chat
-duckduckgo.com#@#.chat-prompt
-duckduckgo.com#@#.legacy-homepage_ai-chat-promo
-duckduckgo.com#@#div[aria-label="DuckDuckGo AI Chat"]
-
-! Re-enable Brave Search AI
-search.brave.com#@#div[class*="llm-summary"]
-search.brave.com#@#.llm-answer
-
-! Re-enable Quora AI (Poe integration)
-quora.com#@#div[class*="poe-button"]
-quora.com#@#div[class*="AskQuestionButton"]
-
-! Re-enable Stack Overflow AI / "Ask AI"
-stackoverflow.com#@#.js-ai-ask
-stackoverflow.com#@#.js-ai-suggestion
-stackoverflow.com#@#div[id="ai-summary"]
-
-! Re-enable Twitter/X Grok (if blocked)
-twitter.com,x.com#@#a[href="/i/grok"]
-twitter.com,x.com#@#div[aria-label="Grok"]
-
-! Re-enable Reddit AI summaries (if applicable)
-reddit.com#@#shreddit-ai-summary
-
-! Re-enable generic "Ask AI" and Chatbot widgets often blocked by "Anti-AI" rules
-*#@#.ai-assistant
-*#@#.ai-chat-popup
-*#@#div[class*="copilot"]
-*#@#div[aria-label="Ask AI"]
-*#@#div[class*="notion-ai"]
-
-! Re-enable specific third-party AI tools
-@@||chatgpt.com^$domain=third-party
-@@||openai.com^$domain=third-party
-@@||anthropic.com^$domain=third-party
-
-! --- Unblock Google AI Overviews (Broad cosmetic exceptions) ---
-! Unblock by specific ID/Data attributes (Most stable)
-google.*#@#[data-attrid="ai-overview"]
-google.*#@#div[data-attrid="ai-overview"]
-google.*#@#div:has(> [data-attrid="ai-overview"])
-
-! Unblock by class names (Commonly used by blocklists)
-google.*#@#.M8OgIe
-google.*#@#.wTYtEc
-google.*#@#.U7izfe
-google.*#@#.g.M8OgIe
-google.*#@#.g.wTYtEc
-
-! Unblock by Text Content (If classes change)
-! These tell the blocker: "Do not hide any DIV that directly contains the text 'AI Overview'"
-google.*#@#div:has-text(/^AI Overview$/)
-google.*#@#div:has(> h1:has-text(/^AI Overview$/))
-google.*#@#div:has(> div > h1:has-text(/^AI Overview$/))
-google.*#@#span:has-text(/^AI Overview$/)
-
-! --- Unblock Network Requests (If the data itself is being blocked) ---
-! These ensure the browser is allowed to fetch the AI data from Google servers.
-@@||google.*/async/new_tab_promos$xhr,domain=google.*
-@@||google.*/search?$xhr,domain=google.*
-@@||google.*/complete/search$xhr,domain=google.*
 
 
