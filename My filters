@@ -324,3 +324,21 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 @@||www.google.com^$generichide
 @@||www.google.co.in^$generichide
 
+! --- ADGUARD EXCLUSIVE FIX FOR GOOGLE AI ---
+! 1. Disable Cosmetic Filtering (Hiding elements)
+@@||google.com^$elemhide
+@@||google.co.in^$elemhide
+
+! 2. Disable Scriptlet Injection (Stops AdGuard from breaking internal scripts)
+@@||google.com^$jsinject
+@@||google.co.in^$jsinject
+
+! 3. Disable HTML Content Filtering (Stops AdGuard from sanitizing the page code)
+! This is likely the missing key that caused previous methods to fail.
+@@||google.com^$content
+@@||google.co.in^$content
+
+! 4. Force allow the AI Data API (Network Level)
+@@||google.com/*/batchexecute$xhr,domain=google.com
+@@||google.co.in/*/batchexecute$xhr,domain=google.co.in
+
