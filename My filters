@@ -324,16 +324,4 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 @@||www.google.com^$generichide
 @@||www.google.co.in^$generichide
 
-! --- GOOGLE AI REPAIR (Standard Syntax) ---
-! 1. Stop Dandelion Sprout from stripping URL parameters
-@@||google.com^$removeparam
-@@||google.co.in^$removeparam
-
-! 2. Allow the AI network requests
-@@||google.com/*/batchexecute$xhr
-@@||google.co.in/*/batchexecute$xhr
-
-! 3. Unblock the "Async" loading tool
-@@||google.com/async/*$xhr
-@@||google.co.in/async/*$xhr
 
