@@ -324,3 +324,22 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 @@||www.google.com^$generichide
 @@||www.google.co.in^$generichide
 
+! --- FORCE UNBLOCK GOOGLE AI (Override Dandelion Sprout) ---
+! We use the '$important' tag to overrule strict blockers
+
+! 1. Unblock the specific "Folded Search" (AI) API endpoint
+@@||google.com/async/folsrch$xhr,important
+@@||google.co.in/async/folsrch$xhr,important
+
+! 2. Unblock the main Batch Execute API (The AI Brain)
+@@||google.com/*/batchexecute$xhr,important
+@@||google.co.in/*/batchexecute$xhr,important
+
+! 3. Unblock Telemetry (Required for AI to "think" and generate output)
+@@||google.com/gen_204$xhr,important
+@@||google.co.in/gen_204$xhr,important
+
+! 4. Force Allow Scriptlets (Stops aggressive code sanitization)
+@@||google.com^$jsinject,important
+@@||google.co.in^$jsinject,important
+
