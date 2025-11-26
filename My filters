@@ -266,28 +266,3 @@ m.thewire.in###wa2-span-popup
 m.thewire.in##.active
 thewire.in###wa2-span-popup
 
-! --- GOOGLE AI OVERVIEW UNBREAK (NUCLEAR MODE) ---
-! 1. Allow the main "batchexecute" API (The AI Engine)
-@@||google.com/*/batchexecute?$xhr,domain=google.com
-@@||google.co.in/*/batchexecute?$xhr,domain=google.co.in
-@@||google.com/*/batchexecute?
-@@||google.co.in/*/batchexecute?
-
-! 2. Allow "Async" background data fetches (Used for live updates)
-@@||google.com/async/*$xhr,domain=google.com
-@@||google.co.in/async/*$xhr,domain=google.co.in
-@@||google.com/async/folsrch?$xhr
-@@||google.co.in/async/folsrch?$xhr
-
-! 3. Allow Google "Generative" specific scripts
-@@||google.com/xjs/*$script,domain=google.com
-@@||google.co.in/xjs/*$script,domain=google.co.in
-
-! 4. Disable Cosmetic Filtering ONLY for Google Search (The "Sledgehammer")
-! This forces AdGuard/uBlock to stop hiding "annoyances" on Google, while keeping them blocked elsewhere.
-@@||www.google.com^$elemhide
-@@||www.google.co.in^$elemhide
-@@||www.google.com^$generichide
-@@||www.google.co.in^$generichide
-
-
