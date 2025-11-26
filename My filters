@@ -325,3 +325,6 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 @@||www.google.co.in^$generichide
 
 @@||google.com##.GcKpu
+@@||google.com##.hdzaWe
+
+
