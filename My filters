@@ -377,3 +377,28 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 google.*#@#div[class*="generative"]
 google.*#@#div[id*="generative"]
 
+! --- DANDELION SPROUT FIX (Allow AI Context Params) ---
+! These rules override the parameter stripping that breaks the AI handshake
+
+! 1. Restore the "Launch Zone" ID (Critical for Region checks)
+@@||google.com^$removeparam=rlz,important
+@@||google.co.in^$removeparam=rlz,important
+
+! 2. Restore the "Event Data" ID (Critical for linking search to AI answer)
+@@||google.com^$removeparam=ved,important
+@@||google.co.in^$removeparam=ved,important
+
+! 3. Restore the Security Token (Critical for Anti-Bot checks)
+@@||google.com^$removeparam=sxsrf,important
+@@||google.co.in^$removeparam=sxsrf,important
+
+! 4. Restore the Search Input params (Context for the AI)
+@@||google.com^$removeparam=ei,important
+@@||google.co.in^$removeparam=ei,important
+@@||google.com^$removeparam=yv,important
+@@||google.co.in^$removeparam=yv,important
+
+! 5. Whitelist the specific AI API endpoint (in case of network blocking)
+@@||google.com/async/folsrch$xhr,important
+@@||google.co.in/async/folsrch$xhr,important
+
