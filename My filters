@@ -343,3 +343,19 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 @@||google.com^$jsinject,important
 @@||google.co.in^$jsinject,important
 
+! --- FIX FOR DANDELION SPROUT ANNOYANCES ON GOOGLE ---
+
+! 1. Stop removing URL parameters (Dandelion strips tracking IDs, which breaks AI)
+@@||google.com^$removeparam,important
+@@||google.co.in^$removeparam,important
+
+! 2. Unblock Google "One Account" & APIs (AI requires active login verification)
+! Dandelion Sprout often blocks these as "Tracking"
+@@||ogs.google.com^$important,xhr,third-party
+@@||apis.google.com^$important,xhr,third-party
+@@||account.google.com^$important,xhr,third-party
+
+! 3. Re-apply the Network Whitelist with Priority
+@@||google.com/*/batchexecute$xhr,important
+@@||google.co.in/*/batchexecute$xhr,important
+
