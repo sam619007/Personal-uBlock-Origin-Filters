@@ -324,4 +324,12 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 @@||www.google.com^$generichide
 @@||www.google.co.in^$generichide
 
+! --- DISABLE ADVANCED FILTERING FOR GOOGLE ---
+! This stops Dandelion Sprout from using Scriptlets ($jsinject) and HTML Filtering ($content)
+! which are the invisible methods used to break the AI.
+
+@@||google.com^$elemhide,jsinject,content
+@@||google.co.in^$elemhide,jsinject,content
+@@||www.google.com^$elemhide,jsinject,content
+@@||www.google.co.in^$elemhide,jsinject,content
 
