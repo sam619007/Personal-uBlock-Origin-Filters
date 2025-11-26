@@ -252,3 +252,27 @@ www.moneycontrol.com##.cus_touchpoint_position.css-slideshow
 ! 25 Nov 2025 https://en.royanews.tv
 en.royanews.tv##.mobile_apps_download
 
+! 25 Nov 2025 https://www.dropsitenews.com
+www.dropsitenews.com##.app-banner-post.app-banner
+
+! 25 Nov 2025 https://www.tribuneindia.com
+www.tribuneindia.com##.pref_src_main_container
+
+! 26 Nov 2025 https://m.thewire.in
+m.thewire.in###wa2-span-popup
+m.thewire.in##.active
+thewire.in###wa2-span-popup
+
+! Unblock Google AI Overviews (Structural Targeting)
+! Targets the main AI container based on data attributes
+google.*#@#div[data-lhcontainer="1"][id][data-hveid] > div[data-mcpr][data-mg-cp][data-mcp]
+google.*#@#div[data-q][data-al]
+
+! Unblock common dynamic classes used for SGE (generative) sections
+google.*#@#.M8OgIe
+google.*#@#.wTYtEc
+google.*#@#[data-attrid^="wa:/google/search/generative_ai"]
+
+! Specific rule to unhide the "Show more" button if hidden
+google.*#@#div[role="button"]:has-text(/Show more/)
+
