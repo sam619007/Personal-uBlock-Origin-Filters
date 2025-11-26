@@ -402,3 +402,20 @@ google.*#@#div[id*="generative"]
 @@||google.com/async/folsrch$xhr,important
 @@||google.co.in/async/folsrch$xhr,important
 
+! --- DANDELION SPROUT OVERRIDE (GLOBAL IMMUNITY) ---
+! 1. Disable ALL parameter stripping on Google (The "God Mode" fix)
+! This prevents the list from sanitizing the URL, which is what breaks the AI.
+@@||google.com^$removeparam,important
+@@||google.co.in^$removeparam,important
+@@||www.google.com^$removeparam,important
+@@||www.google.co.in^$removeparam,important
+
+! 2. Disable Content Security Policy (CSP) blocking
+! Dandelion Sprout sometimes restricts where data can be loaded from.
+@@||google.com^$csp,important
+@@||google.co.in^$csp,important
+
+! 3. Force-Allow the AI Network Request (Batchexecute)
+@@||google.com/*/batchexecute$xhr,important
+@@||google.co.in/*/batchexecute$xhr,important
+
