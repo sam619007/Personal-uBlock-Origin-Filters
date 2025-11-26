@@ -359,3 +359,21 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 @@||google.com/*/batchexecute$xhr,important
 @@||google.co.in/*/batchexecute$xhr,important
 
+! --- DANDELION SPROUT FIX (Specific Whitelist) ---
+! 1. Stop Dandelion Sprout from stripping Google's AI context parameters
+@@||google.com^$removeparam=rlz,important
+@@||google.co.in^$removeparam=rlz,important
+@@||google.com^$removeparam=gs_lcrp,important
+@@||google.co.in^$removeparam=gs_lcrp,important
+@@||google.com^$removeparam=vet,important
+@@||google.co.in^$removeparam=vet,important
+
+! 2. Force Allow the AI "Batch Execute" command (Network Level)
+@@||google.com/*/batchexecute$xhr,important
+@@||google.co.in/*/batchexecute$xhr,important
+
+! 3. Disable "Generative" Element Hiding (Cosmetic Level)
+! Dandelion Sprout hides elements containing "generative" in the class name
+google.*#@#div[class*="generative"]
+google.*#@#div[id*="generative"]
+
