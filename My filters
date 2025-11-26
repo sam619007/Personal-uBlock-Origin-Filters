@@ -323,3 +323,11 @@ google.*#@#div[role="button"]:has-text(/Show more/)
 @@||www.google.co.in^$elemhide
 @@||www.google.com^$generichide
 @@||www.google.co.in^$generichide
+
+google.*#@#.hdzaWe
+google.*#@#.GcKpu
+google.*#@#div[jsname="yDeuDf"]
+@@||google.com^$generichide
+@@||google.co.in^$generichide
+@@||google.co.uk^$generichide
+
