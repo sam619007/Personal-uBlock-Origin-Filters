@@ -275,3 +275,5 @@ www.hindustantimes.com##.googleFollow
 www.hindustantimes.com###ECH_HT_MWEB_ALL_BUT_ATF2
 www.hindustantimes.com###ECH_HT_MWEB_ALL_BUT_ATF5
 
+! 27 Nov 2025 https://www.theindiacable.com
+www.theindiacable.com##.markup.body > div:nth-of-type(2)
