@@ -278,13 +278,11 @@ www.hindustantimes.com###ECH_HT_MWEB_ALL_BUT_ATF5
 ! 27 Nov 2025 https://www.theindiacable.com
 www.theindiacable.com##.markup.body > div:nth-of-type(2)
 
-! 28 Nov 2025 https://www.haaretz.com
-www.haaretz.com##.bfo.bfn.bfm.bfl.bfk.bfj.bfi.bfh.fl.bg.acf.bfg.f.xs.aw.awm.ac.ey
-
 ! 28 Nov 2025 https://chat.qwen.ai
 chat.qwen.ai##.share-logo-content
 
 ! 28 Nov 2025 https://www.theguardian.com
 ||sourcepoint.theguardian.com/index.html$subdocument
+
 
 
