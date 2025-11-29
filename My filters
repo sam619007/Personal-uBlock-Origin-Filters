@@ -300,3 +300,26 @@ www.hindustantimes.com##.inBottomNav.bottomMenu
 ! 29 Nov 2025 https://www.politico.com
 www.politico.com##.adlib-sticky-footer
 
+! 30 Nov 2025 https://www.livemint.com
+www.livemint.com##.signinhead.dFlexAMP.fr
+www.livemint.com###subsId
+www.livemint.com##.menuBtm
+
+! 30 Nov 2025 https://www.hindustantimes.com
+www.hindustantimes.com##.BottomNav_bottomMenu__2QwLy
+
+! --- PERMANENT / ROBUST AI OVERVIEW EXCEPTIONS ---
+
+! 1. Network Exception (Robust)
+! Truncated to the API path (/async/folsrch) to ignore changing version numbers like '_basejs'
+@@||google.*/async/folsrch$xhr,domain=google.*
+
+! 2. Cosmetic Exception: Main Container (Robust)
+! Removed deep child selectors (> div[data-mcp]...) which change frequently.
+! Targets the parent container which is structurally stable.
+google.*#@#div[data-lhcontainer]
+
+! 3. Cosmetic Exception: Follow-up/Internal Elements (Robust)
+! Kept as is, but ensures it applies to all Google domains.
+google.*#@#div[data-q][data-al]
+
