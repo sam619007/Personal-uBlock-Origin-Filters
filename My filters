@@ -344,4 +344,25 @@ google.*#@#div[role="listitem"]:has(a[href*="&udm=50"])
 ! Replaces: #m-x-content div[class]:first-of-type...:has(> [data-rl])
 google.*#@##m-x-content div:has([data-rl])
 
+! --- Google AI Overviews & Features (Exact Specificity) ---
+
+! 1. Network Exception (Exact match of your logger finding)
+@@||www.google.*/async/folsrch?*&async=_basejs*$xhr,domain=google.*
+
+! 2. AI Overview Container (Exact Attributes)
+! We retained [data-mcpr][data-mg-cp] because AdGuard specifically targets them.
+google.*#@#div[data-lhcontainer="1"][id][data-hveid] > div[data-mcpr][data-mg-cp][data-mcp]
+
+! 3. Search Tools / Filter Bubbles (udm=50)
+! We retained the full path structure to match the block intensity.
+google.*#@#div[data-st-cnt] div[role="list"] > div[role="listitem"]:has(a[href*="&udm=50&"])
+
+! 4. Related Content / Mobile Sidebar
+! We retained the complex :first-of-type selector.
+google.*#@##m-x-content div[class]:first-of-type:not([class*=" "]):has(> [data-rl])
+
+google.com#@#div[data-st-cnt] div[role=list] > div[role=listitem]:has(a[href*="&udm=50&"])
+google.com#@#div[data-lhcontainer="1"][id][data-hveid] > div[data-mcpr][data-mg-cp][data-mcp]
+google.com#@##m-x-content div[class]:first-of-type:not([class*=" "]):has(> [data-rl])
+
 
