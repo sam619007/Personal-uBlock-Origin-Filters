@@ -323,3 +323,25 @@ google.*#@#div[data-lhcontainer]
 ! Kept as is, but ensures it applies to all Google domains.
 google.*#@#div[data-q][data-al]
 
+! --- PERMANENT / ROBUST GOOGLE EXCEPTIONS ---
+
+! 1. Network Exception (AI Data Loading)
+! (Included for completeness based on our previous step)
+@@||google.*/async/folsrch$xhr,domain=google.*
+
+! 2. Cosmetic: AI Overview Container
+! Targets the main 'data-lhcontainer' attribute.
+! Replaces: div[data-lhcontainer="1"]... > div[data-mcpr]...
+google.*#@#div[data-lhcontainer]
+
+! 3. Cosmetic: "More Results" / Filter Bubbles
+! Targets list items containing 'udm=50' links (often specific search filters/tools).
+! Replaces: div[data-st-cnt] div[role=list] > div[role=listitem]:has(...)
+google.*#@#div[role="listitem"]:has(a[href*="&udm=50"])
+
+! 4. Cosmetic: Mobile/Sidebar Content (Related Links)
+! Targets containers with 'data-rl' (Related Links) inside the main content area.
+! Replaces: #m-x-content div[class]:first-of-type...:has(> [data-rl])
+google.*#@##m-x-content div:has([data-rl])
+
+
