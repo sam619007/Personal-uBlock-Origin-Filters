@@ -370,5 +370,22 @@ m.thewire.in##.header_bar_category.text-:style(top:calc(3rem + 8px) !important)
 m.thewire.in##.smartphone.desktop_mobile:style(padding-top:calc(5rem + 8px) !important)
 m.thewire.in/category##.category_data:style(margin-top:0px !important)
 
+! --- Toprankers Video Fix Start ---
 
+! Target 1: The outermost container found in your HTML
+! We force it to respect the viewport width and remove potential negative margins
+toprankers.com##.videoComponent_videoContainer__xKaDA:style(max-width: 100% !important; width: 100% !important; margin: 0 auto !important;)
+
+! Target 2: The inner player wrapper
+toprankers.com##.videoComponent_playerWrapper__1IrX0:style(max-width: 100% !important; width: 100% !important;)
+
+! Target 3: The specific video injection ID
+toprankers.com###videoComponent_VideoHere_in__1fwiW:style(max-width: 100% !important; width: 100% !important; overflow: hidden !important;)
+
+! Target 4: Future-proof Wildcard
+! Because the text "__xKaDA" is a random hash that might change when the site updates,
+! this rule targets ANY class starting with "videoComponent_videoContainer"
+toprankers.com##div[class*="videoComponent_videoContainer"]:style(max-width: 100vw !important; width: 100% !important; margin: 0 !important;)
+
+! --- Toprankers Video Fix End ---
 
