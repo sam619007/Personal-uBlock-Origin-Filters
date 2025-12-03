@@ -392,5 +392,10 @@ toprankers.com##div[class*="videoComponent_videoContainer"]:style(max-width: 100
 ! 2 Dec 2025 https://www.mid-day.com
 www.mid-day.com###mid-daycom47160
 
+! 3 Dec 2025 https://www.foreignaffairs.com
+www.foreignaffairs.com##.z-above-base.w-100.bottom-0.position-fixed
+www.foreignaffairs.com##.z-base.messages--container
+www.foreignaffairs.com##._repositioned.article-newsletter-signup--container
+
 
 
