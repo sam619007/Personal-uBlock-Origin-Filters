@@ -397,5 +397,15 @@ www.foreignaffairs.com##.z-above-base.w-100.bottom-0.position-fixed
 www.foreignaffairs.com##.z-base.messages--container
 www.foreignaffairs.com##._repositioned.article-newsletter-signup--container
 
+! 5 Dec 2025 https://www.livemint.com
+www.livemint.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.position
+
+! 5 Dec 2025 https://www.business-standard.com
+www.business-standard.com##[href^="https://www.google.com/preferences/source"]
+www.business-standard.com##.subscribbtn
+
+! 5 Dec 2025 https://www.indiatvnews.com
+www.indiatvnews.com##.social-outer
+
 
 
