@@ -125,21 +125,8 @@ frontline.thehindu.com###piano-sec-bottom
 ! 4 Oct 2025 https://www.thequint.com
 www.thequint.com##._2lTVq
 
-! 6 Oct 2025 https://www.theindiacable.com
-www.theindiacable.com##.app-banner-post.app-banner
-
 ! 6 Oct 2025 https://zeteo.com
 zeteo.com##.app-banner-post.app-banner
-
-! 6 Oct 2025 https://www.theindiacable.com
-www.theindiacable.com##h6
-www.theindiacable.com##pre
-
-! 7 Oct 2025 https://www.theindiacable.com
-www.theindiacable.com##.markup.body > p:nth-of-type(1)
-www.theindiacable.com##p:nth-of-type(2) > span:nth-of-type(1)
-www.theindiacable.com##[href^="https://substack.com/redirect/b30f1b58-6c9e-42c6-96e0-4c86ade7aa9b"]
-www.theindiacable.com##p:nth-of-type(2)
 
 ! 7 Oct 2025 https://www.donotpanic.news
 www.donotpanic.news##.app-banner-post.app-banner
@@ -274,9 +261,6 @@ www.hindustantimes.com##.rgtLinks
 www.hindustantimes.com##.googleFollow
 www.hindustantimes.com###ECH_HT_MWEB_ALL_BUT_ATF2
 www.hindustantimes.com###ECH_HT_MWEB_ALL_BUT_ATF5
-
-! 27 Nov 2025 https://www.theindiacable.com
-www.theindiacable.com##.markup.body > div:nth-of-type(2)
 
 ! 28 Nov 2025 https://chat.qwen.ai
 chat.qwen.ai##.share-logo-content
