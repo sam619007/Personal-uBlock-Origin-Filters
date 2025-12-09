@@ -407,3 +407,16 @@ indianexpress.com###evnav_subscribe_ham
 ! 7 Dec 2025 https://www.ndtv.com
 www.ndtv.com##.RdInAp_wr
 
+! 10 Dec 2025 https://www.theindiacable.com
+www.theindiacable.com##.app-banner-post.app-banner
+www.theindiacable.com##blockquote
+www.theindiacable.com##pre:nth-of-type(1)
+www.theindiacable.com##pre:nth-of-type(2)
+www.theindiacable.com##div:nth-of-type(1) > hr
+www.theindiacable.com##.post-header > .pc-reset.pc-paddingBottom-16.pc-flexDirection-column.pc-display-flex.pencraft
+www.theindiacable.com##h5
+www.theindiacable.com##.subscription-widget-wrap
+
+! 10 Dec 2025 https://www.kenklippenstein.com
+www.kenklippenstein.com##.app-banner-post.app-banner
+
