@@ -432,5 +432,9 @@ grok.com##.end-14.bottom-4.absolute.hover\:brightness-95.text-fg-primary.transit
 ! 11 Dec 2025 https://agent.minimax.io
 agent.minimax.io##.md\:hidden.py-\[10px\].px-4.justify-between.items-center.w-full.flex > .gap-2.items-center.flex
 
+! 11 Dec 2025 https://claude.ai
+claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100
+
+
 
 
