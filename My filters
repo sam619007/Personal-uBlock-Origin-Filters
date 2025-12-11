@@ -420,3 +420,17 @@ www.theindiacable.com##.subscription-widget-wrap
 ! 10 Dec 2025 https://www.kenklippenstein.com
 www.kenklippenstein.com##.app-banner-post.app-banner
 
+! 10 Dec 2025 https://ca.news.yahoo.com
+ca.news.yahoo.com##.max-md\:\!mb-auto.relative
+
+! 11 Dec 2025 https://chatgpt.com
+chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.relative.text-token-text-secondary.-mt-4
+
+! 11 Dec 2025 https://grok.com
+grok.com##.end-14.bottom-4.absolute.hover\:brightness-95.text-fg-primary.transition-all.items-center.font-bold.text-sm.px-3.gap-1\.5.rounded-xl.h-8.disabled\:hover\:bg-transparent.hover\:bg-button-ghost-hover.border-border-l2.border.select-none.\[\&_svg\]\:shrink-0.duration-100.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.whitespace-nowrap.justify-center.inline-flex
+
+! 11 Dec 2025 https://agent.minimax.io
+agent.minimax.io##.md\:hidden.py-\[10px\].px-4.justify-between.items-center.w-full.flex > .gap-2.items-center.flex
+
+
+
