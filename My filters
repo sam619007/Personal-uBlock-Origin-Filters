@@ -452,4 +452,7 @@ www.outlookindia.com##div.text-center.ads-box.d-block
 ! 17 Dec 2025 https://fortune.com
 fortune.com##div.\[\:has\(\*\[data-empty\=true\]\)\]\:hidden.empty\:contents.not-prose
 
+! Fix floating Search Bar by targeting the input placeholder in CHATGPT 
+chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
+
 
