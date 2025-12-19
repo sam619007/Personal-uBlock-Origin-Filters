@@ -460,5 +460,6 @@ fortune.com##div.\[\:has\(\*\[data-empty\=true\]\)\]\:hidden.empty\:contents.not
 chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
 
 !--------The Wire India Heading and Categories Fix --------!
-! Fix sticky header overlap on The Wire
-m.thewire.in##header:style(position: relative !important;)
+! Force header to scroll with page
+m.thewire.in##.td-header-wrap:style(position: absolute !important;)
+m.thewire.in##.td-header-menu-wrap-full:style(position: absolute !important;)
