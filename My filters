@@ -459,12 +459,8 @@ fortune.com##div.\[\:has\(\*\[data-empty\=true\]\)\]\:hidden.empty\:contents.not
 ! Fix floating Search Bar by targeting the input placeholder in CHATGPT 
 chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
 
-! Force The Wire header to stick to the top
-thewire.in##header#masthead:style(position: fixed !important; top: 0 !important; left: 0 !important; width: 100% !important; z-index: 2147483647 !important;)
-
-! Backup selector in case they change the ID
-thewire.in##.site-header:style(position: fixed !important; top: 0 !important; left: 0 !important; width: 100% !important; z-index: 2147483647 !important;)
-
-! Push content down so it is not hidden behind the fixed header
-thewire.in##div#content:style(margin-top: 120px !important;)
+! Force the header to stay at the top of the page (Stop floating)
+m.thewire.in,thewire.in##header:style(position: absolute !important; top: 0 !important;)
+m.thewire.in,thewire.in##.header-wrap:style(position: absolute !important; top: 0 !important;)
+m.thewire.in,thewire.in##div[class*="header"]:style(position: absolute !important;)
 
