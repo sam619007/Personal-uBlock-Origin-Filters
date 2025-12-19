@@ -459,7 +459,4 @@ fortune.com##div.\[\:has\(\*\[data-empty\=true\]\)\]\:hidden.empty\:contents.not
 ! Fix floating Search Bar by targeting the input placeholder in CHATGPT 
 chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
 
-!--------The Wire India Heading and Categories Fix --------!
-! Force header to scroll with page
-m.thewire.in##.td-header-wrap:style(position: absolute !important;)
-m.thewire.in##.td-header-menu-wrap-full:style(position: absolute !important;)
+
