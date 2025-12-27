@@ -472,5 +472,10 @@ www.thequint.com##._3MGlE
 indianexpress.com##.ie-has-inline-image > [href]
 indianexpress.com##.floating-nav__right.floating-nav
 
+! 27 Dec 2025 https://www.kitklarenberg.com
+www.kitklarenberg.com##.app-banner-post.app-banner
+
+! 27 Dec 2025 https://chatgpt.com
+chatgpt.com##.text-pretty.text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary
 
 
