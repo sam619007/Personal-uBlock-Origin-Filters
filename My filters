@@ -478,4 +478,13 @@ www.kitklarenberg.com##.app-banner-post.app-banner
 ! 27 Dec 2025 https://chatgpt.com
 chatgpt.com##.text-pretty.text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary
 
+! 27 Dec 2025 https://www.moneycontrol.com
+www.moneycontrol.com###fixedheader > .blp
+
+! 27 Dec 2025 https://www.digit.in
+www.digit.in##.home_mobile_show.rh-container
+
+
+
+
 
