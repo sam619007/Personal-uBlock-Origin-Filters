@@ -533,5 +533,40 @@ www.nationalheraldindia.com##.bottom-sticky-m__next-button__2TJ2T
 ! 21 Jan 2026 https://www.tribuneindia.com
 www.tribuneindia.com##.goPremiumWrapper
 
+! 24 Jan 2026 https://www.thehindubusinessline.com
+www.thehindubusinessline.com##.navigations-icon
+www.thehindubusinessline.com##.ad-lead-txt
+www.thehindubusinessline.com###tag-related
+www.thehindubusinessline.com##.mobile-top-ad
+www.thehindubusinessline.com##.mobile-inarticle-ad
 
+! --- Substack Banner Total Blockade ---
+! Strategy 1: Specific Class Removal (The exact element you found)
+substack.com##.app-banner-post.app-banner:remove()
 
+! Strategy 2: Fuzzy Class Match (Catches variations like "app-banner-v2")
+substack.com##div[class*="app-banner"]
+
+! Strategy 3: Structural Content Match (Blocks any box linking to the app)
+! This is the strongest rule: it finds the container by looking for the link inside it.
+substack.com##div:has(> a[href*="substack_app"])
+substack.com##.reader-in-app-cta
+
+! Strategy 4: Prevent Scroll Locking (If the banner freezes the page)
+substack.com##+js(remove-class, no-scroll, body)
+! --------------------------------------
+
+! Force removal of the element even if scripts try to re-add it
+substack.com##.app-banner-post.app-banner:remove()
+
+! Generic stickiness removal for Substack
+substack.com##+js(set-constant, document.body.style.overflow, auto)
+
+! Hide any division that contains a link with 'substack_app' in the URL
+substack.com##div:has(> a[href*="substack_app"])
+
+! Backup: Hide any element containing the specific text 'Open in app'
+substack.com##div:has-text(/^Open in app$/)
+
+! Target any div where the class name contains the phrase 'app-banner'
+substack.com##div[class*="app-banner"]
