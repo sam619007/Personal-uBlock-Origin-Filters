@@ -75,9 +75,6 @@ www.hindustantimes.com##.htEchoArticlePromo.mb10.mt10
 timesofindia.indiatimes.com##.A7zom
 timesofindia.indiatimes.com##.noPaddingTitle.XNLUe
 
-! 22 Aug 2025 https://claude.ai
-claude.ai##.h-2.w-full.bg-bg-100
-
 ! 23 Aug 2025 https://indianexpress.com
 ||indianexpress.com/wp-content/uploads/2025/08/Freedom-sale_ES999_SN_131x131.jpg$image
 
@@ -92,9 +89,6 @@ gemini.google.com##[class*="hallucination-disclaimer"]
 
 ! 4 Sept 2025 https://chat.deepseek.com
 chat.deepseek.com##.e1c686b9._75c2572.feec6a7a
-
-! 14 Sept 2025 https://claude.ai
-claude.ai##.top-3\.5.right-2.absolute.sm\:static.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.px-2\.5.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
 
 ! 14 Sept 2025 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[src]
@@ -203,9 +197,6 @@ www.perplexity.ai##.bg-super.divide-subtlest.ring-subtlest.border-subtlest.justi
 
 ! 3 Nov 2025 https://www.perplexity.ai
 www.perplexity.ai##.rounded-lg.px-3.hover\:opacity-80.inline-flex.origin-center.cursor-pointer.text-sm.h-8.text-inverse.border-transparent.border.bg-super.whitespace-nowrap.leading-loose.justify-center.items-center.text-center.font-sans.font-semimedium.select-none.interactable.reset
-
-! 6 Nov 2025 https://claude.ai
-claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.px-2\.5.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
 
 ! 9 Nov 2025 https://www.kimi.com
 www.kimi.com##.membership-upgrade
@@ -434,9 +425,6 @@ grok.com##.end-14.bottom-4.absolute.hover\:brightness-95.text-fg-primary.transit
 
 ! 11 Dec 2025 https://agent.minimax.io
 agent.minimax.io##.md\:hidden.py-\[10px\].px-4.justify-between.items-center.w-full.flex > .gap-2.items-center.flex
-
-! 11 Dec 2025 https://claude.ai
-claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100
 
 ! 11 Dec 2025 https://caravanmagazine.in
 caravanmagazine.in##.lg_cols_12.md_cols_12.sm_cols_12.widget_list_node
