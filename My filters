@@ -550,6 +550,19 @@ www.thehindubusinessline.com##.mobile-inarticle-ad
 www.richardsilverstein.com##.af-middle-header
 www.richardsilverstein.com###ss-share-hub
 
+! 29 Jan 2026 https://theprint.in
+theprint.in##.tvc_main_banner
+
+! 29 Jan 2026 https://article-14.com
+article-14.com##.plausible-event-name\=header\+subscription\+bar\+clicked.header-subscribe-bar-div.justify-content-center.align-items-center.d-flex.py-3.bg-black.w-100
+
+! 29 Jan 2026 https://www.deccanherald.com
+www.deccanherald.com##.q4vW3
+
+! 30 Jan 2026 https://www.reporters-collective.in
+www.reporters-collective.in##.donation-popup
+www.reporters-collective.in##.article_sticky-top
+
 ! 6 Feb 2026 https://claude.ai
 claude.ai##.transition.hover\:text-text-300
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.px-2\.5.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
