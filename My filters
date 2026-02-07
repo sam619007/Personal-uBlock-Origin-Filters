@@ -148,12 +148,6 @@ chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
 open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
 
-! 12 Oct 2025 https://www.perplexity.ai
-www.perplexity.ai##div.last\:border-b.last\:border-b-subtlest.\[\&\:only-child\]\:border-0.px-4.border-t.flex-col.grow.flex.-mx-4.border-t-subtlest.p-md
-
-perplexity.ai#@#button[data-testid="share-button"]
-perplexity.ai#@#button:has(> div > svg[data-icon="share"])
-
 ! 15 Oct 2025 https://www.thehindu.com
 www.thehindu.com##.col-12.col-sm-12.col-md-12.col-lg-4.col-xl-3.print-hide
 
@@ -178,9 +172,6 @@ www.newindianexpress.com###breaking-news-container
 www.hindustantimes.com##.bottomFixAd
 www.hindustantimes.com##.story_progress_bar.ProgressBar_story_progress_bar__OirQn
 
-! 18 Oct 2025 https://www.perplexity.ai
-www.perplexity.ai##.px-3.h-10.text-base.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.dark\:hover\:bg-subtle.hover\:text-foreground.text-quiet.hover\:bg-subtle.focus-visible\:bg-subtle
-
 ! 22 Oct 2025 https://chatgpt.com
 chatgpt.com##.pe-2\.5.ps-2.py-1\.5.cursor-default.-me-2\.5.-ms-2.-my-1\.5.__menu-item-trailing-btn
 chatgpt.com##.dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].bg-\[\#F1F1FB\].py-2.font-medium.text-sm.rounded-full.gap-1.items-center.inline-flex
@@ -191,12 +182,6 @@ scroll.in##.fixedsticky-on.hide-for-large.fixedsticky.share-bar-mobile
 
 ! 27 Oct 2025 https://www.swiggy.com
 www.swiggy.com##._3nLOm
-
-! 29 Oct 2025 https://www.perplexity.ai
-www.perplexity.ai##.bg-super.divide-subtlest.ring-subtlest.border-subtlest.justify-center.hover\:opacity-80.duration-200.transition.items-center.cursor-pointer.w-full.flex.relative.md\:gap-sm.px-md.gap-xs.rounded-sm.h-bannerHeight
-
-! 3 Nov 2025 https://www.perplexity.ai
-www.perplexity.ai##.rounded-lg.px-3.hover\:opacity-80.inline-flex.origin-center.cursor-pointer.text-sm.h-8.text-inverse.border-transparent.border.bg-super.whitespace-nowrap.leading-loose.justify-center.items-center.text-center.font-sans.font-semimedium.select-none.interactable.reset
 
 ! 9 Nov 2025 https://www.kimi.com
 www.kimi.com##.membership-upgrade
@@ -211,10 +196,6 @@ www.cnbctv18.com###install_app_btn
 ! 10 Nov 2025 https://ernie.baidu.com
 ernie.baidu.com##.footer--bottomInputStyle__lrrzRTld.footer__PPSho3NC.footer__du6PsobB
 ernie.baidu.com##.footer--centerInputStyle__BDpSoxGh.footer__PPSho3NC.footer__du6PsobB
-
-! 10 Nov 2025 https://www.perplexity.ai
-www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-full.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:opacity-80.text-inverse.bg-super
-www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-lg.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.hover\:opacity-80.text-inverse.bg-super
 
 ! 14 Nov 2025 https://notebooklm.google.com
 notebooklm.google.com##.ng-star-inserted.ng-tns-c2287526256-0.mat-body-small.footer
