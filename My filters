@@ -4,20 +4,26 @@ www.youtube.com##.cbTitleButton.cbButton.cbSubmitButton
 !------YOUTUBE, DEARROW PENCIL REMOVAL on Firefox Mobile----------20 Dec 2025 https://m.youtube.com
 m.youtube.com##.cbMobileButton.cbTitleButton.cbButton.cbSubmitButton > svg
 
+---------------------------------------------------------NEWS-------------------------------------------------------------------------
+NEWSLAUNDRY
 ! 11 Aug 2025 https://www.newslaundry.com
 www.newslaundry.com##.W1zxG
 
+THE HINDU
 ! 17 Aug 2025 https://www.thehindu.com
 www.thehindu.com###sectiondivicymi
 
+THE MINT
 ! 17 Aug 2025 https://www.livemint.com
 www.livemint.com##.subscribeNow
 
+LIVELAW
 ! 17 Aug 2025 https://www.livelaw.in
 www.livelaw.in###ad_for_non_subscribers_level_1_1
 www.livelaw.in##.level_3-1.ad-for-non-subscriber.col-md-4.col-sm-6.col-xs-12
 www.livelaw.in###ad_for_non_subscribers_level_4_1
 
+FRONTLINE
 ! 17 Aug 2025 https://frontline.thehindu.com
 frontline.thehindu.com###piano_homepage_lead
 frontline.thehindu.com###hp-piano-top1
@@ -26,6 +32,7 @@ frontline.thehindu.com##.mb-3.pt-4.dark-spliter
 frontline.thehindu.com###piano-hp-bottom1
 frontline.thehindu.com###piano-newsletter-box
 
+INDIAN EXPRESS
 ! 17 Aug 2025 https://indianexpress.com
 indianexpress.com##.mobile
 
@@ -43,12 +50,6 @@ www.telegraphindia.com##.m_bottom_sticky_mobile_ad_wrap.stkybtmadbox
 ||www.livemint.com/lm-img/cdp/Storefront_Images/1755520388880.png$image
 ||www.livemint.com/lm-img/cdp/Storefront_Images/1752739784339.png$image
 ||www.livemint.com/lm-img/cdp/Storefront_Images/175273978433*.png$image
-
-! 19 Aug 2025 https://chat.deepseek.com
-chat.deepseek.com##._3a24007
-chat.deepseek.com##.a1e75851
-chat.deepseek.com##._41b9122
-chat.deepseek.com##._0fcaa63
 
 ! 19 Aug 2025 https://chat.mistral.ai
 chat.mistral.ai##.text-muted.text-xs.py-3
@@ -80,9 +81,6 @@ www.livemint.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-
 
 ! 2 Sept 2025 https://gemini.google.com
 gemini.google.com##[class*="hallucination-disclaimer"]
-
-! 4 Sept 2025 https://chat.deepseek.com
-chat.deepseek.com##.e1c686b9._75c2572.feec6a7a
 
 ! 14 Sept 2025 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[src]
@@ -127,9 +125,6 @@ www.telegraphindia.com##.leadzerobanner
 
 ! 9 Oct 2025 https://www.972mag.com
 www.972mag.com##.sticky
-
-! 10 Oct 2025 https://chat.deepseek.com
-chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
 
 ! 10 Oct 2025 https://open.spotify.com
 open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
@@ -530,7 +525,6 @@ OPENAI/CHATGPT
 ! Fix floating Search Bar by targeting the input placeholder in CHATGPT 
 chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
 
-
-
+DEEPSEEK
 
 
