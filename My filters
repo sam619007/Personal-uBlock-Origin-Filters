@@ -478,8 +478,11 @@ GROK
 grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justify-between.items-center.flex.z-50.right-0.left-0.top-0.fixed
 
 OPENAI/CHATGPT
-! Fix floating Search Bar by targeting the input placeholder in CHATGPT 
+-------------------------------------------
+Fix floating Search Bar by targeting the input placeholder in CHATGPT 
 chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
+-------------------------------------------
+chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.overflow-hidden.w-full.relative.text-token-text-secondary.-mt-4
 
 DEEPSEEK
 
@@ -488,4 +491,6 @@ gemini.google.com##[class*="hallucination-disclaimer"]
 gemini.google.com##.mat-unthemed.mat-mdc-unelevated-button.mdc-button--unelevated.gds-referral-button.mat-mdc-button-base.mdc-button
 gemini.google.com##.ng-star-inserted.mobile-controls > .ng-star-inserted.mat-mdc-tooltip-trigger
 
-
+MISTRAL AI/LE CHAT
+chat.mistral.ai##.py-5.px-4.border-basic-gray-alpha-4.border-t.p-2.gap-2.flex-col.flex
+chat.mistral.ai##.md\:px-12.sm\:px-8.text-muted.text-xs.text-center.py-3.px-2.max-w-6xl
