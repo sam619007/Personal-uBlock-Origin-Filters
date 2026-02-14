@@ -50,9 +50,6 @@ chat.deepseek.com##.a1e75851
 chat.deepseek.com##._41b9122
 chat.deepseek.com##._0fcaa63
 
-! 19 Aug 2025 https://chatgpt.com
-chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary
-
 ! 19 Aug 2025 https://chat.mistral.ai
 chat.mistral.ai##.text-muted.text-xs.py-3
 
@@ -90,10 +87,6 @@ chat.deepseek.com##.e1c686b9._75c2572.feec6a7a
 ! 14 Sept 2025 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[src]
 timesofindia.indiatimes.com##.YSIbF.F9Ip_
-
-! 19 Sept 2025 https://chatgpt.com
-chatgpt.com##.pe-4.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-2.focus-visible\:ring-token-text-tertiary.motion-safe\:ease-out.motion-safe\:duration-150.motion-safe\:transition-colors.hover\:bg-token-surface-hover.shadow-short.bg-primary.sm\:gap-2.sm\:justify-start.ps-3.py-2.rounded-full.gap-1\.5.justify-center.items-center.w-full.flex.group
-chatgpt.com##.motion-safe\:duration-150.motion-safe\:transition-colors.focus-visible\:outline-hidden.focus-visible\:ring-offset-transparent.focus-visible\:ring-offset-1.focus-visible\:ring-2.focus-visible\:ring-token-text-tertiary.p-2.border-\[\.5px\].border.border-token-border-default.text-xs.pe-4.ps-4.py-3.rounded-t-2xl.justify-between.items-center.w-full.flex.z-10.relative.hover\:bg-token-main-surface-secondary.text-token-text-primary.sm\:bg-token-main-surface-primary.group
 
 ! 19 Sept 2025 https://duckduckgo.com
 duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
@@ -168,11 +161,6 @@ www.newindianexpress.com###breaking-news-container
 ! 16 Oct 2025 https://www.hindustantimes.com
 www.hindustantimes.com##.bottomFixAd
 www.hindustantimes.com##.story_progress_bar.ProgressBar_story_progress_bar__OirQn
-
-! 22 Oct 2025 https://chatgpt.com
-chatgpt.com##.pe-2\.5.ps-2.py-1\.5.cursor-default.-me-2\.5.-ms-2.-my-1\.5.__menu-item-trailing-btn
-chatgpt.com##.dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].bg-\[\#F1F1FB\].py-2.font-medium.text-sm.rounded-full.gap-1.items-center.inline-flex
-chatgpt.com##.motion-safe\:delay-\[175ms\].opacity-100.motion-safe\:ease-out.motion-safe\:duration-200.motion-safe\:transition-opacity.gap-1\.5.hoverable.__menu-item.group
 
 ! 24 Oct 2025 https://scroll.in
 scroll.in##.fixedsticky-on.hide-for-large.fixedsticky.share-bar-mobile
@@ -392,9 +380,6 @@ www.kenklippenstein.com##.app-banner-post.app-banner
 ! 10 Dec 2025 https://ca.news.yahoo.com
 ca.news.yahoo.com##.max-md\:\!mb-auto.relative
 
-! 11 Dec 2025 https://chatgpt.com
-chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.relative.text-token-text-secondary.-mt-4
-
 ! 11 Dec 2025 https://grok.com
 grok.com##.end-14.bottom-4.absolute.hover\:brightness-95.text-fg-primary.transition-all.items-center.font-bold.text-sm.px-3.gap-1\.5.rounded-xl.h-8.disabled\:hover\:bg-transparent.hover\:bg-button-ghost-hover.border-border-l2.border.select-none.\[\&_svg\]\:shrink-0.duration-100.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.whitespace-nowrap.justify-center.inline-flex
 
@@ -415,9 +400,6 @@ www.outlookindia.com##div.text-center.ads-box.d-block
 ! 17 Dec 2025 https://fortune.com
 fortune.com##div.\[\:has\(\*\[data-empty\=true\]\)\]\:hidden.empty\:contents.not-prose
 
-! Fix floating Search Bar by targeting the input placeholder in CHATGPT 
-chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
-
 ! 24 Dec 2025 https://maktoobmedia.com
 maktoobmedia.com###tdi_71
 
@@ -430,9 +412,6 @@ indianexpress.com##.floating-nav__right.floating-nav
 
 ! 27 Dec 2025 https://www.kitklarenberg.com
 www.kitklarenberg.com##.app-banner-post.app-banner
-
-! 27 Dec 2025 https://chatgpt.com
-chatgpt.com##.text-pretty.text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary
 
 ! 27 Dec 2025 https://www.moneycontrol.com
 www.moneycontrol.com###fixedheader > .blp
@@ -481,9 +460,6 @@ copilot.microsoft.com##.text-xs.cursor-pointer.shrink-0.max-w-64.dark\:after\:bo
 ! 15 Jan 2026 https://www.hindustantimes.com
 www.hindustantimes.com##.bottomMenu
 www.hindustantimes.com##.inArticlePromo
-
-! 18 Jan 2026 https://chatgpt.com
-chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.overflow-hidden.w-full.relative.text-token-text-secondary.-mt-4
 
 ! 19 Jan 2026 https://www.youtube.com
 www.youtube.com##.ytwTimedAnimationButtonRendererHost
@@ -538,19 +514,25 @@ www.deccanherald.com##.q4vW3
 www.reporters-collective.in##.donation-popup
 www.reporters-collective.in##.article_sticky-top
 
+QWEN
 ! 8 Feb 2026 https://chat.qwen.ai
 chat.qwen.ai##.chat-container-statement
 
+PERPLEXITY AI
 ! 12 Feb 2026 https://www.perplexity.ai
 www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-lg.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.bg-button-bg.hover\:opacity-80.text-inverse
 
+CLAUDE AI
 ! 13 Feb 2026 https://claude.ai
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.px-2\.5.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
 
+GROK
 ! 13 Feb 2026 https://grok.com
 grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justify-between.items-center.flex.z-50.right-0.left-0.top-0.fixed
 
-
+OPENAI/CHATGPT
+! Fix floating Search Bar by targeting the input placeholder in CHATGPT 
+chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
 
 
 
