@@ -95,9 +95,6 @@ duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
 chat.mistral.ai##.outline-basic-gray-alpha-4.outline-4.font-medium.text-sm.py-2\.5.px-3.bg-default.border-default.border-1.rounded-4.gap-2.justify-between.items-center.flex.group\/link
 chat.mistral.ai##.py-5.px-4.border-basic-gray-alpha-4.border-t.p-2.gap-2.flex-col.flex
 
-! 23 Sept 2025 https://grok.com
-grok.com##.hover\:scale-\[1\.01\].dark.gap-4.flex.text-left.group.rounded-3xl.min-\[384px\]\:min-w-52.min-\[384px\]\:w-max.border-card.cursor-pointer.border.text-white.text-xs.bg-black.w-\[calc\(100\%-16px\)\].items-center.py-4.px-5.sm\:right-2.sm\:bottom-2.sm\:fixed.relative.upsell-small
-
 ! 23 Sept 2025 https://chat.mistral.ai
 chat.mistral.ai##.sm\:block.hidden.z-10.bottom-4.start-4.fixed.p-5.bg-muted.rounded-lg.space-y-4
 
@@ -379,9 +376,6 @@ www.kenklippenstein.com##.app-banner-post.app-banner
 
 ! 10 Dec 2025 https://ca.news.yahoo.com
 ca.news.yahoo.com##.max-md\:\!mb-auto.relative
-
-! 11 Dec 2025 https://grok.com
-grok.com##.end-14.bottom-4.absolute.hover\:brightness-95.text-fg-primary.transition-all.items-center.font-bold.text-sm.px-3.gap-1\.5.rounded-xl.h-8.disabled\:hover\:bg-transparent.hover\:bg-button-ghost-hover.border-border-l2.border.select-none.\[\&_svg\]\:shrink-0.duration-100.disabled\:cursor-not-allowed.disabled\:opacity-60.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.cursor-pointer.whitespace-nowrap.justify-center.inline-flex
 
 ! 11 Dec 2025 https://agent.minimax.io
 agent.minimax.io##.md\:hidden.py-\[10px\].px-4.justify-between.items-center.w-full.flex > .gap-2.items-center.flex
