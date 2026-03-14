@@ -480,6 +480,7 @@ PERPLEXITY AI
 www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-lg.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.bg-button-bg.hover\:opacity-80.text-inverse
 www.perplexity.ai##.duration-300.fade-in.animate-in
 www.perplexity.ai##.\[\&_svg\]\:translate-y-px.\[\&_svg\]\:scale-\[1\.125\]
+www.perplexity.ai##.-mx-sm.inline-flex
 
 CLAUDE AI
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
