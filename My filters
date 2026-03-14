@@ -463,6 +463,14 @@ www.deccanherald.com##.q4vW3
 www.reporters-collective.in##.donation-popup
 www.reporters-collective.in##.article_sticky-top
 
+! 13 Feb 2026 https://www.newslaundry.com
+www.newslaundry.com##.V41mK
+
+! 17 Feb 2026 https://www.thebulwark.com
+www.thebulwark.com##p.button-wrapper
+
+! 13 Mar 2026 https://www.hindustantimes.com
+www.hindustantimes.com##.inArticleAdCarouselWrapper
 --------------------------------------------------------------AI---------------------------------------------------------------------------------
 
 QWEN
@@ -470,6 +478,8 @@ chat.qwen.ai##.chat-container-statement
 
 PERPLEXITY AI
 www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-center.active\:ease-outExpo.active\:duration-150.active\:scale-\[0\.97\].cursor-pointer.rounded-lg.text-center.justify-center.font-semimedium.group\/button.relative.items-center.select-none.ease-out.duration-300.transition.outline-transparent.outline-none.focus\:outline-none.font-sans.bg-button-bg.hover\:opacity-80.text-inverse
+www.perplexity.ai##.duration-300.fade-in.animate-in
+www.perplexity.ai##.\[\&_svg\]\:translate-y-px.\[\&_svg\]\:scale-\[1\.125\]
 
 CLAUDE AI
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
@@ -492,6 +502,8 @@ GEMINI AI
 gemini.google.com##[class*="hallucination-disclaimer"]
 gemini.google.com##.mat-unthemed.mat-mdc-unelevated-button.mdc-button--unelevated.gds-referral-button.mat-mdc-button-base.mdc-button
 gemini.google.com##.ng-star-inserted.mobile-controls > .ng-star-inserted.mat-mdc-tooltip-trigger
+gemini.google.com##.ng-star-inserted.under-input.mobile.g1-upsell-container.upgrade-container
+gemini.google.com##.ng-star-inserted.mobile-controls > .ng-star-inserted
 
 MISTRAL AI/LE CHAT
 chat.mistral.ai##.py-5.px-4.border-basic-gray-alpha-4.border-t.p-2.gap-2.flex-col.flex
