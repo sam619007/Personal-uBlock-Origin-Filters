@@ -269,6 +269,16 @@ m.thewire.in##.header_bar_category.text-:style(top:calc(3rem + 8px) !important)
 m.thewire.in##.smartphone.desktop_mobile:style(padding-top:calc(5rem + 8px) !important)
 m.thewire.in/category##.category_data:style(margin-top:0px !important)
 
+!------NEW GOOGLE SEARCH AI OVERVIEWS EXCEPTIONS-----------
+
+! Google Search - AI Overview
+google.*#@#div:not([role]) > h1 ~ div[data-hveid] div[style^="margin-bottom:"][data-hveid]:has(div[id^="folsrch"])
+google.*#@#style + div[data-mcpr][style^="margin-bottom:"]:has(div[data-async-type="folsrch"])
+google.*#@#style + div[data-mcpr][style^="margin-bottom:"] div[data-async-type="folsrch"]
+google.*#@#div[data-lhcontainer="1"][eid][data-ved] > div > div > div[jsname] > div[style="display:contents"]
+://www.google.*/async/folsrch?*&async=_basejs:*,_basecomb:*&q=$xhr
+google.*#@#div[data-q][data-al]
+
 ! --- Toprankers Video Fix Start ---
 
 ! Target 1: The outermost container found in your HTML
