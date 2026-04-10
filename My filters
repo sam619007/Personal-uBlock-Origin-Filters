@@ -1,290 +1,37 @@
+YOUTUBE
 !------YOUTUBE, DEARROW PENCIL REMOVAL---------- 11 Dec 2025 https://www.youtube.com
 www.youtube.com##.cbTitleButton.cbButton.cbSubmitButton
 
 !------YOUTUBE, DEARROW PENCIL REMOVAL on Firefox Mobile----------20 Dec 2025 https://m.youtube.com
 m.youtube.com##.cbMobileButton.cbTitleButton.cbButton.cbSubmitButton > svg
 
----------------------------------------------------------NEWS-------------------------------------------------------------------------
-NEWSLAUNDRY
-! 11 Aug 2025 https://www.newslaundry.com
-www.newslaundry.com##.W1zxG
+! 19 Jan 2026 https://www.youtube.com
+www.youtube.com##.ytwTimedAnimationButtonRendererHost
+www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-recognition-shelf-renderer.style-scope
+www.youtube.com##.yt-core-attributed-string--white-space-pre-wrap.chatInputViewModelChatDisclaimer.yt-core-attributed-string
 
-THE HINDU
-! 17 Aug 2025 https://www.thehindu.com
-www.thehindu.com###sectiondivicymi
-
-THE MINT
-! 17 Aug 2025 https://www.livemint.com
-www.livemint.com##.subscribeNow
-
-LIVELAW
-! 17 Aug 2025 https://www.livelaw.in
-www.livelaw.in###ad_for_non_subscribers_level_1_1
-www.livelaw.in##.level_3-1.ad-for-non-subscriber.col-md-4.col-sm-6.col-xs-12
-www.livelaw.in###ad_for_non_subscribers_level_4_1
-
-FRONTLINE
-! 17 Aug 2025 https://frontline.thehindu.com
-frontline.thehindu.com###piano_homepage_lead
-frontline.thehindu.com###hp-piano-top1
-frontline.thehindu.com###piano-subscribe-box
-frontline.thehindu.com##.mb-3.pt-4.dark-spliter
-frontline.thehindu.com###piano-hp-bottom1
-frontline.thehindu.com###piano-newsletter-box
-
-INDIAN EXPRESS
-! 17 Aug 2025 https://indianexpress.com
-indianexpress.com##.mobile
-
-www.livelaw.in###ad_for_non_subscribers_level_3_1
-
-www.livelaw.in##.level_4-1.ad-for-non-subscriber.col-md-4.col-sm-6.col-xs-12
-
-! 18 Aug 2025 https://finshots.in
-finshots.in###subs-popup-banner
-
-! 18 Aug 2025 https://www.telegraphindia.com
-www.telegraphindia.com##.m_bottom_sticky_mobile_ad_wrap.stkybtmadbox
-
-! 18 Aug 2025 https://www.livemint.com
-||www.livemint.com/lm-img/cdp/Storefront_Images/1755520388880.png$image
-||www.livemint.com/lm-img/cdp/Storefront_Images/1752739784339.png$image
-||www.livemint.com/lm-img/cdp/Storefront_Images/175273978433*.png$image
-
-! 19 Aug 2025 https://finshots.in
-finshots.in###announcement-bar-root
-||d3jlwjv6gmyigl.cloudfront.net/assets/landingFold.png$image
-finshots.in##.landing-first-half
-||d3jlwjv6gmyigl.cloudfront.net/assets/landingFold.png$image
-||d3jlwjv6gmyigl.cloudfront.net/assets/landingFold.png$image
-finshots.in##.juFLto.style__ContainerWrapper-sc-1gre7ok-0.containerClass.container
-
-! 20 Aug 2025 https://www.hindustantimes.com
-www.hindustantimes.com##.story-progress-bar
-www.hindustantimes.com##.htEchoArticlePromo.mb10.mt10
-
-! 20 Aug 2025 https://timesofindia.indiatimes.com
-timesofindia.indiatimes.com##.A7zom
-timesofindia.indiatimes.com##.noPaddingTitle.XNLUe
-
-! 23 Aug 2025 https://indianexpress.com
-||indianexpress.com/wp-content/uploads/2025/08/Freedom-sale_ES999_SN_131x131.jpg$image
-
-! 24 Aug 2025 https://www.livemint.com
-www.livemint.com##.echopopupSec.jsx-57b92a802c0fa870
-
-! 31 Aug 2025 https://www.livemint.com
-www.livemint.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.position
-
-! 14 Sept 2025 https://timesofindia.indiatimes.com
-timesofindia.indiatimes.com##[src]
-timesofindia.indiatimes.com##.YSIbF.F9Ip_
-
-! 19 Sept 2025 https://duckduckgo.com
-duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
-
-! 4 Oct 2025 https://www.livelaw.in
-www.livelaw.in###newsletter_block
-
-! 4 Oct 2025 https://frontline.thehindu.com
-frontline.thehindu.com###piano-sec-top
-frontline.thehindu.com###piano-sec-subscribe-box
-frontline.thehindu.com###piano-sec-bottom
-
-! 4 Oct 2025 https://www.thequint.com
-www.thequint.com##._2lTVq
-
-! 6 Oct 2025 https://zeteo.com
-zeteo.com##.app-banner-post.app-banner
-
-! 7 Oct 2025 https://www.donotpanic.news
-www.donotpanic.news##.app-banner-post.app-banner
-
-! 7 Oct 2025 https://www.the-sentinel-intelligence.com
-www.the-sentinel-intelligence.com##.app-banner-post.app-banner
-
-! 9 Oct 2025 https://www.telegraphindia.com
-www.telegraphindia.com##.m_native_dfp_1_ad_wrap
-www.telegraphindia.com##.leadzerobanner
-
-! 9 Oct 2025 https://www.972mag.com
-www.972mag.com##.sticky
-
+SPOTIFY
 ! 10 Oct 2025 https://open.spotify.com
 open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
 
-! 15 Oct 2025 https://www.thehindu.com
-www.thehindu.com##.col-12.col-sm-12.col-md-12.col-lg-4.col-xl-3.print-hide
-
-! 14 Oct 2025 https://www.newindianexpress.com
-www.newindianexpress.com###breaking-news-container
-
-! 15 Oct 2025 https://www.hindustantimes.com
-www.hindustantimes.com##.mWebTopAdSticky.dHide.h325
-www.hindustantimes.com##.bottomFixAd
-www.hindustantimes.com##.story_progress_bar.ProgressBar_story_progress_bar__OirQn
-www.hindustantimes.com##.app-exclusive.freemium-card
-www.hindustantimes.com##.paywall-container
-
-! 18 Oct 2025 https://www.livemint.com
-www.livemint.com##.sr1
-www.livemint.com##.storyPage_storyContent__3xuFc > div:nth-of-type(3)
-
-! 15 Oct 2025 https://www.newindianexpress.com
-www.newindianexpress.com###breaking-news-container
-
-! 16 Oct 2025 https://www.hindustantimes.com
-www.hindustantimes.com##.bottomFixAd
-www.hindustantimes.com##.story_progress_bar.ProgressBar_story_progress_bar__OirQn
-
-! 24 Oct 2025 https://scroll.in
-scroll.in##.fixedsticky-on.hide-for-large.fixedsticky.share-bar-mobile
-
-! 27 Oct 2025 https://www.swiggy.com
-www.swiggy.com##._3nLOm
-
-! 9 Nov 2025 https://www.cnbctv18.com
-www.cnbctv18.com###install_app_btn
-
-! 14 Nov 2025 https://notebooklm.google.com
-notebooklm.google.com##.ng-star-inserted.ng-tns-c2287526256-0.mat-body-small.footer
-
-! 17 Nov 2025 https://www.makemytrip.com
-www.makemytrip.com##.AppDownloadBanner_container__zntqv
-
-! 23 Nov 2025 https://www.moneycontrol.com
-||images.moneycontrol.com/images/common/header/50lkh.svg$image
-||images.moneycontrol.com/images/common/header/50lkh.svg$image
-www.moneycontrol.com##.js-li-loan
-www.moneycontrol.com##.js-li-win-to-spin-game-start.css-li-win-to-spin-game-start
-www.moneycontrol.com##.cus_touchpoint_position.css-slideshow
-
-! 25 Nov 2025 https://en.royanews.tv
-en.royanews.tv##.mobile_apps_download
-
-! 25 Nov 2025 https://www.dropsitenews.com
-www.dropsitenews.com##.app-banner-post.app-banner
-
-! 25 Nov 2025 https://www.tribuneindia.com
-www.tribuneindia.com##.pref_src_main_container
-
-! 26 Nov 2025 https://m.thewire.in
-m.thewire.in###wa2-span-popup
-m.thewire.in##.active
-thewire.in###wa2-span-popup
-
+TWITTER/X
 ! 26 Nov 2025 https://x.com
 x.com##.r-1wbh5a2.r-16y2uox.r-1t2qqvi.r-s8bhmr.r-obd0qt.r-15ysp7h.r-1777fci.r-1pz39u2.css-175oi2r > .r-dnmrzs.css-175oi2r
 
-! 27 Nov 2025 https://www.hindustantimes.com
-www.hindustantimes.com##.rgtLinks
-www.hindustantimes.com##.googleFollow
-www.hindustantimes.com###ECH_HT_MWEB_ALL_BUT_ATF2
-www.hindustantimes.com###ECH_HT_MWEB_ALL_BUT_ATF5
+DUCKDUCKGO
+! 19 Sept 2025 https://duckduckgo.com
+duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
 
-! 28 Nov 2025 https://www.theguardian.com
-||sourcepoint.theguardian.com/index.html$subdocument
+SWIGGY
+! 27 Oct 2025 https://www.swiggy.com
+www.swiggy.com##._3nLOm
 
-! 29 Nov 2025 https://www.livemint.com
-www.livemint.com##.adContainer
-www.livemint.com##.btn-wrap
-www.livemint.com##div.linkRight
-www.livemint.com##.gift-an-article
-www.livemint.com##.btmMenu
+MAKEMYTRIP
+! 17 Nov 2025 https://www.makemytrip.com
+www.makemytrip.com##.AppDownloadBanner_container__zntqv
 
-! 29 Nov 2025 https://www.hindustantimes.com
-www.hindustantimes.com##.inBottomNav.bottomMenu
-
-! 29 Nov 2025 https://www.politico.com
-www.politico.com##.adlib-sticky-footer
-
-! 30 Nov 2025 https://www.livemint.com
-www.livemint.com##.signinhead.dFlexAMP.fr
-www.livemint.com###subsId
-www.livemint.com##.menuBtm
-
-! 30 Nov 2025 https://www.hindustantimes.com
-www.hindustantimes.com##.BottomNav_bottomMenu__2QwLy
-
-! 18 Mar 2026 https://www.haaretz.com
-www.haaretz.com##.xjwzlys.x1gdln1y.xgb5sdy.x1oyu57b.x1n6c4r2.xjbyqu9.xp78jy5.x1ey2m1c.xh8yej3.x9fjoi2.xixxii4.xl56j7k.xtijo5x.x78zum5.x12awp2b.xc26acl.fe-button-ruler
-
-! 21 Mar 2026 https://www.moneycontrol.com
-www.moneycontrol.com###bottom_sticky_menu
-
-! --- PERMANENT / ROBUST AI OVERVIEW EXCEPTIONS ---
-
-! 1. Network Exception (Robust)
-! Truncated to the API path (/async/folsrch) to ignore changing version numbers like '_basejs'
-@@||google.*/async/folsrch$xhr,domain=google.*
-
-! 2. Cosmetic Exception: Main Container (Robust)
-! Removed deep child selectors (> div[data-mcp]...) which change frequently.
-! Targets the parent container which is structurally stable.
-google.*#@#div[data-lhcontainer]
-
-! 3. Cosmetic Exception: Follow-up/Internal Elements (Robust)
-! Kept as is, but ensures it applies to all Google domains.
-google.*#@#div[data-q][data-al]
-
-! --- PERMANENT / ROBUST GOOGLE EXCEPTIONS ---
-
-! 1. Network Exception (AI Data Loading)
-! (Included for completeness based on our previous step)
-@@||google.*/async/folsrch$xhr,domain=google.*
-
-! 2. Cosmetic: AI Overview Container
-! Targets the main 'data-lhcontainer' attribute.
-! Replaces: div[data-lhcontainer="1"]... > div[data-mcpr]...
-google.*#@#div[data-lhcontainer]
-
-! 3. Cosmetic: "More Results" / Filter Bubbles
-! Targets list items containing 'udm=50' links (often specific search filters/tools).
-! Replaces: div[data-st-cnt] div[role=list] > div[role=listitem]:has(...)
-google.*#@#div[role="listitem"]:has(a[href*="&udm=50"])
-
-! 4. Cosmetic: Mobile/Sidebar Content (Related Links)
-! Targets containers with 'data-rl' (Related Links) inside the main content area.
-! Replaces: #m-x-content div[class]:first-of-type...:has(> [data-rl])
-google.*#@##m-x-content div:has([data-rl])
-
-! --- Google AI Overviews & Features (Exact Specificity) ---
-
-! 1. Network Exception (Exact match of your logger finding)
-@@||www.google.*/async/folsrch?*&async=_basejs*$xhr,domain=google.*
-
-! 2. AI Overview Container (Exact Attributes)
-! We retained [data-mcpr][data-mg-cp] because AdGuard specifically targets them.
-google.*#@#div[data-lhcontainer="1"][id][data-hveid] > div[data-mcpr][data-mg-cp][data-mcp]
-
-! 3. Search Tools / Filter Bubbles (udm=50)
-! We retained the full path structure to match the block intensity.
-google.*#@#div[data-st-cnt] div[role="list"] > div[role="listitem"]:has(a[href*="&udm=50&"])
-
-! 4. Related Content / Mobile Sidebar
-! We retained the complex :first-of-type selector.
-google.*#@##m-x-content div[class]:first-of-type:not([class*=" "]):has(> [data-rl])
-
-google.com#@#div[data-st-cnt] div[role=list] > div[role=listitem]:has(a[href*="&udm=50&"])
-google.com#@#div[data-lhcontainer="1"][id][data-hveid] > div[data-mcpr][data-mg-cp][data-mcp]
-google.com#@##m-x-content div[class]:first-of-type:not([class*=" "]):has(> [data-rl])
-
-m.thewire.in###nav_pwa_static:style(padding-top:8px !important; top:0px !important; height:3rem !important)
-m.thewire.in##.header_bar_category.text-:style(top:calc(3rem + 8px) !important) 
-m.thewire.in##.smartphone.desktop_mobile:style(padding-top:calc(5rem + 8px) !important)
-m.thewire.in/category##.category_data:style(margin-top:0px !important)
-
-!------NEW GOOGLE SEARCH AI OVERVIEWS EXCEPTIONS-----------
-
-! Google Search - AI Overview
-google.*#@#div:not([role]) > h1 ~ div[data-hveid] div[style^="margin-bottom:"][data-hveid]:has(div[id^="folsrch"])
-google.*#@#style + div[data-mcpr][style^="margin-bottom:"]:has(div[data-async-type="folsrch"])
-google.*#@#style + div[data-mcpr][style^="margin-bottom:"] div[data-async-type="folsrch"]
-google.*#@#div[data-lhcontainer="1"][eid][data-ved] > div > div > div[jsname] > div[style="display:contents"]
-://www.google.*/async/folsrch?*&async=_basejs:*,_basecomb:*&q=$xhr
-google.*#@#div[data-q][data-al]
-
+TOPRANKERS
 ! --- Toprankers Video Fix Start ---
 
 ! Target 1: The outermost container found in your HTML
@@ -304,136 +51,7 @@ toprankers.com##div[class*="videoComponent_videoContainer"]:style(max-width: 100
 
 ! --- Toprankers Video Fix End ---
 
-! 2 Dec 2025 https://www.mid-day.com
-www.mid-day.com###mid-daycom47160
-
-! 3 Dec 2025 https://www.foreignaffairs.com
-www.foreignaffairs.com##.z-above-base.w-100.bottom-0.position-fixed
-www.foreignaffairs.com##.z-base.messages--container
-www.foreignaffairs.com##._repositioned.article-newsletter-signup--container
-
-! 5 Dec 2025 https://www.livemint.com
-www.livemint.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.position
-
-! 5 Dec 2025 https://www.business-standard.com
-www.business-standard.com##[href^="https://www.google.com/preferences/source"]
-www.business-standard.com##.subscribbtn
-
-! 5 Dec 2025 https://www.indiatvnews.com
-www.indiatvnews.com##.social-outer
-
-! 6 Dec 2025 https://www.declassifieduk.org
-www.declassifieduk.org##.et_pb_row_1_tb_header.et_pb_row
-
-! 6 Dec 2025 https://hindi.newslaundry.com
-hindi.newslaundry.com##.b5Cw7
-hindi.newslaundry.com##.vkm2D
-
-! 6 Dec 2025 https://indianexpress.com
-indianexpress.com##.hide_utm_paytm_phonepe.js-btm-nav
-
-! 7 Dec 2025 https://indianexpress.com
-indianexpress.com###evnav_subscribe_ham
-
-! 7 Dec 2025 https://www.ndtv.com
-www.ndtv.com##.RdInAp_wr
-
-! 10 Dec 2025 https://www.kenklippenstein.com
-www.kenklippenstein.com##.app-banner-post.app-banner
-
-! 10 Dec 2025 https://ca.news.yahoo.com
-ca.news.yahoo.com##.max-md\:\!mb-auto.relative
-
-! 11 Dec 2025 https://caravanmagazine.in
-caravanmagazine.in##.lg_cols_12.md_cols_12.sm_cols_12.widget_list_node
-caravanmagazine.in##div.spacer.svelte-1v05g1g.block_holder:nth-of-type(13)
-
-! 13 Dec 2025 https://theprint.in
-theprint.in##.tdi_77.vc_raw_html.td_block_wrap.wpb_wrapper
-
-! 15 Dec 2025 https://www.outlookindia.com
-www.outlookindia.com##.ads-indicator
-www.outlookindia.com##div.text-center.ads-box.d-block
-
-! 17 Dec 2025 https://fortune.com
-fortune.com##div.\[\:has\(\*\[data-empty\=true\]\)\]\:hidden.empty\:contents.not-prose
-
-! 24 Dec 2025 https://maktoobmedia.com
-maktoobmedia.com###tdi_71
-
-! 24 Dec 2025 https://www.thequint.com
-www.thequint.com##._3MGlE
-
-! 27 Dec 2025 https://indianexpress.com
-indianexpress.com##.ie-has-inline-image > [href]
-indianexpress.com##.floating-nav__right.floating-nav
-
-! 27 Dec 2025 https://www.kitklarenberg.com
-www.kitklarenberg.com##.app-banner-post.app-banner
-
-! 27 Dec 2025 https://www.moneycontrol.com
-www.moneycontrol.com###fixedheader > .blp
-
-! 27 Dec 2025 https://www.digit.in
-www.digit.in##.home_mobile_show.rh-container
-
-! 25 Dec 2025 https://notebooklm.google.com
-notebooklm.google.com##.ng-star-inserted.ng-tns-c2561536472-0.mat-body-small.footer
-
-! 30 Dec 2025 https://www.1mg.com
-www.1mg.com##[href^="https://deep-route.1mg.com/"]
-
-! 5 Jan 2026 https://thechinaacademy.org
-thechinaacademy.org##.o-banner
-thechinaacademy.org##.cta-register-content.cta-register
-
-! 5 Jan 2026 https://www.simplelaw.blog
-www.simplelaw.blog##.app-banner-post.app-banner
-
-! 6 Jan 2026 https://www.businessworld.in
-www.businessworld.in##.mobilestickybox
-
-! 7 Jan 2026 https://www.analyticsinsight.net
-www.analyticsinsight.net###ads-1715770360111
-
-! 8 Jan 2026 https://www.economist.com
-www.economist.com##._incontent_1aj6h_11._advert_1aj6h_1
-
-! 8 Jan 2026 https://www.hindustantimes.com
-www.hindustantimes.com##.inArticlePromo
-
-! 8 Jan 2026 https://www.deccanherald.com
-www.deccanherald.com##.hGdmg
-
-! 9 Jan 2026 https://www.businesstoday.in
-www.businesstoday.in##.rhs_fixwhtsapp
-www.businesstoday.in##.home_page_trusted_source
-
-! 12 Jan 2026 https://www.digit.in
-www.digit.in##.digit_trusted_source
-
-! 15 Jan 2026 https://www.hindustantimes.com
-www.hindustantimes.com##.bottomMenu
-www.hindustantimes.com##.inArticlePromo
-
-! 19 Jan 2026 https://www.youtube.com
-www.youtube.com##.ytwTimedAnimationButtonRendererHost
-www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-recognition-shelf-renderer.style-scope
-www.youtube.com##.yt-core-attributed-string--white-space-pre-wrap.chatInputViewModelChatDisclaimer.yt-core-attributed-string
-
-! 21 Jan 2026 https://www.nationalheraldindia.com
-www.nationalheraldindia.com##.bottom-sticky-m__next-button__2TJ2T
-
-! 21 Jan 2026 https://www.tribuneindia.com
-www.tribuneindia.com##.goPremiumWrapper
-
-! 24 Jan 2026 https://www.thehindubusinessline.com
-www.thehindubusinessline.com##.navigations-icon
-www.thehindubusinessline.com##.ad-lead-txt
-www.thehindubusinessline.com###tag-related
-www.thehindubusinessline.com##.mobile-top-ad
-www.thehindubusinessline.com##.mobile-inarticle-ad
-
+SUBSTACK
 ! --- UNIVERSAL SUBSTACK BANNER DESTROYER ---
 ! Rule 1: Text-Based Matching (Ignores Class Names)
 ! This hides any division that contains the exact phrase "Read in the Substack app"
@@ -452,33 +70,332 @@ www.thehindubusinessline.com##.mobile-inarticle-ad
 ##.floating-banner
 ! -------------------------------------------
 
-! 26 Jan 2026 https://www.richardsilverstein.com
-www.richardsilverstein.com##.af-middle-header
-www.richardsilverstein.com###ss-share-hub
+1MG
+! 30 Dec 2025 https://www.1mg.com
+www.1mg.com##[href^="https://deep-route.1mg.com/"]
 
+---------------------------------------------------------INDIAN NEWS-------------------------------------------------------------------------
+THE HINDU
+! 17 Aug 2025 https://www.thehindu.com
+www.thehindu.com###sectiondivicymi
+! 15 Oct 2025 https://www.thehindu.com
+www.thehindu.com##.col-12.col-sm-12.col-md-12.col-lg-4.col-xl-3.print-hide
+
+BUSINESS LINE
+! 24 Jan 2026 https://www.thehindubusinessline.com
+www.thehindubusinessline.com##.navigations-icon
+www.thehindubusinessline.com##.ad-lead-txt
+www.thehindubusinessline.com###tag-related
+www.thehindubusinessline.com##.mobile-top-ad
+www.thehindubusinessline.com##.mobile-inarticle-ad
+
+FRONTLINE
+! 17 Aug 2025 https://frontline.thehindu.com
+frontline.thehindu.com###piano_homepage_lead
+frontline.thehindu.com###hp-piano-top1
+frontline.thehindu.com###piano-subscribe-box
+frontline.thehindu.com##.mb-3.pt-4.dark-spliter
+frontline.thehindu.com###piano-hp-bottom1
+frontline.thehindu.com###piano-newsletter-box
+! 4 Oct 2025 https://frontline.thehindu.com
+frontline.thehindu.com###piano-sec-top
+frontline.thehindu.com###piano-sec-subscribe-box
+frontline.thehindu.com###piano-sec-bottom
+
+INDIAN EXPRESS
+! 17 Aug 2025 https://indianexpress.com
+indianexpress.com##.mobile
+! 23 Aug 2025 https://indianexpress.com
+||indianexpress.com/wp-content/uploads/2025/08/Freedom-sale_ES999_SN_131x131.jpg$image
+! 14 Oct 2025 https://www.newindianexpress.com
+www.newindianexpress.com###breaking-news-container
+! 6 Dec 2025 https://indianexpress.com
+indianexpress.com##.hide_utm_paytm_phonepe.js-btm-nav
+! 7 Dec 2025 https://indianexpress.com
+indianexpress.com###evnav_subscribe_ham
+! 27 Dec 2025 https://indianexpress.com
+indianexpress.com##.ie-has-inline-image > [href]
+indianexpress.com##.floating-nav__right.floating-nav
+
+NEWSLAUNDRY
+! 11 Aug 2025 https://www.newslaundry.com
+www.newslaundry.com##.W1zxG
+! 13 Feb 2026 https://www.newslaundry.com
+www.newslaundry.com##.V41mK
+! 6 Dec 2025 https://hindi.newslaundry.com
+hindi.newslaundry.com##.b5Cw7
+hindi.newslaundry.com##.vkm2D
+
+THE MINT
+! 17 Aug 2025 https://www.livemint.com
+www.livemint.com##.subscribeNow
+! 18 Aug 2025 https://www.livemint.com
+||www.livemint.com/lm-img/cdp/Storefront_Images/1755520388880.png$image
+||www.livemint.com/lm-img/cdp/Storefront_Images/1752739784339.png$image
+||www.livemint.com/lm-img/cdp/Storefront_Images/175273978433*.png$image
+! 24 Aug 2025 https://www.livemint.com
+www.livemint.com##.echopopupSec.jsx-57b92a802c0fa870
+! 31 Aug 2025 https://www.livemint.com
+www.livemint.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.position
+! 18 Oct 2025 https://www.livemint.com
+www.livemint.com##.sr1
+www.livemint.com##.storyPage_storyContent__3xuFc > div:nth-of-type(3)
+! 29 Nov 2025 https://www.livemint.com
+www.livemint.com##.adContainer
+www.livemint.com##.btn-wrap
+www.livemint.com##div.linkRight
+www.livemint.com##.gift-an-article
+www.livemint.com##.btmMenu
+! 30 Nov 2025 https://www.livemint.com
+www.livemint.com##.signinhead.dFlexAMP.fr
+www.livemint.com###subsId
+www.livemint.com##.menuBtm
+! 5 Dec 2025 https://www.livemint.com
+www.livemint.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.position
+
+LIVELAW
+! 17 Aug 2025 https://www.livelaw.in
+www.livelaw.in###ad_for_non_subscribers_level_1_1
+www.livelaw.in##.level_3-1.ad-for-non-subscriber.col-md-4.col-sm-6.col-xs-12
+www.livelaw.in###ad_for_non_subscribers_level_4_1
+www.livelaw.in###ad_for_non_subscribers_level_3_1
+www.livelaw.in##.level_4-1.ad-for-non-subscriber.col-md-4.col-sm-6.col-xs-12
+! 4 Oct 2025 https://www.livelaw.in
+www.livelaw.in###newsletter_block
+
+FINSHOTS
+! 18 Aug 2025 https://finshots.in
+finshots.in###subs-popup-banner
+! 19 Aug 2025 https://finshots.in
+finshots.in###announcement-bar-root
+||d3jlwjv6gmyigl.cloudfront.net/assets/landingFold.png$image
+finshots.in##.landing-first-half
+||d3jlwjv6gmyigl.cloudfront.net/assets/landingFold.png$image
+||d3jlwjv6gmyigl.cloudfront.net/assets/landingFold.png$image
+finshots.in##.juFLto.style__ContainerWrapper-sc-1gre7ok-0.containerClass.container
+
+TELEGRAPH INDIA
+! 18 Aug 2025 https://www.telegraphindia.com
+www.telegraphindia.com##.m_bottom_sticky_mobile_ad_wrap.stkybtmadbox
+! 9 Oct 2025 https://www.telegraphindia.com
+www.telegraphindia.com##.m_native_dfp_1_ad_wrap
+www.telegraphindia.com##.leadzerobanner
+
+HINDUSTAN TIMES
+! 20 Aug 2025 https://www.hindustantimes.com
+www.hindustantimes.com##.story-progress-bar
+www.hindustantimes.com##.htEchoArticlePromo.mb10.mt10
+! 15 Oct 2025 https://www.hindustantimes.com
+www.hindustantimes.com##.mWebTopAdSticky.dHide.h325
+www.hindustantimes.com##.bottomFixAd
+www.hindustantimes.com##.story_progress_bar.ProgressBar_story_progress_bar__OirQn
+www.hindustantimes.com##.app-exclusive.freemium-card
+www.hindustantimes.com##.paywall-container
+! 16 Oct 2025 https://www.hindustantimes.com
+www.hindustantimes.com##.bottomFixAd
+www.hindustantimes.com##.story_progress_bar.ProgressBar_story_progress_bar__OirQn
+! 27 Nov 2025 https://www.hindustantimes.com
+www.hindustantimes.com##.rgtLinks
+www.hindustantimes.com##.googleFollow
+www.hindustantimes.com###ECH_HT_MWEB_ALL_BUT_ATF2
+www.hindustantimes.com###ECH_HT_MWEB_ALL_BUT_ATF5
+! 29 Nov 2025 https://www.hindustantimes.com
+www.hindustantimes.com##.inBottomNav.bottomMenu
+! 30 Nov 2025 https://www.hindustantimes.com
+www.hindustantimes.com##.BottomNav_bottomMenu__2QwLy
+! 8 Jan 2026 https://www.hindustantimes.com
+www.hindustantimes.com##.inArticlePromo
+! 15 Jan 2026 https://www.hindustantimes.com
+www.hindustantimes.com##.bottomMenu
+www.hindustantimes.com##.inArticlePromo
+! 13 Mar 2026 https://www.hindustantimes.com
+www.hindustantimes.com##.inArticleAdCarouselWrapper
+
+TIMES OF INDIA
+! 20 Aug 2025 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.A7zom
+timesofindia.indiatimes.com##.noPaddingTitle.XNLUe
+! 14 Sept 2025 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##[src]
+timesofindia.indiatimes.com##.YSIbF.F9Ip_
+
+THE QUINT
+! 4 Oct 2025 https://www.thequint.com
+www.thequint.com##._2lTVq
+! 24 Dec 2025 https://www.thequint.com
+www.thequint.com##._3MGlE
+
+THE NEW INDIAN EXPRESS
+! 15 Oct 2025 https://www.newindianexpress.com
+www.newindianexpress.com###breaking-news-container
+
+SCROLL.IN
+! 24 Oct 2025 https://scroll.in
+scroll.in##.fixedsticky-on.hide-for-large.fixedsticky.share-bar-mobile
+
+CNBCTV18
+! 9 Nov 2025 https://www.cnbctv18.com
+www.cnbctv18.com###install_app_btn
+
+MONEYCONTROL
+! 23 Nov 2025 https://www.moneycontrol.com
+||images.moneycontrol.com/images/common/header/50lkh.svg$image
+||images.moneycontrol.com/images/common/header/50lkh.svg$image
+www.moneycontrol.com##.js-li-loan
+www.moneycontrol.com##.js-li-win-to-spin-game-start.css-li-win-to-spin-game-start
+www.moneycontrol.com##.cus_touchpoint_position.css-slideshow
+! 27 Dec 2025 https://www.moneycontrol.com
+www.moneycontrol.com###fixedheader > .blp
+! 21 Mar 2026 https://www.moneycontrol.com
+www.moneycontrol.com###bottom_sticky_menu
+
+TRIBUNE INDIA
+! 25 Nov 2025 https://www.tribuneindia.com
+www.tribuneindia.com##.pref_src_main_container
+! 21 Jan 2026 https://www.tribuneindia.com
+www.tribuneindia.com##.goPremiumWrapper
+
+THE WIRE
+! 26 Nov 2025 https://m.thewire.in
+m.thewire.in###wa2-span-popup
+m.thewire.in##.active
+thewire.in###wa2-span-popup
+------------UI FIX---------------------------
+m.thewire.in###nav_pwa_static:style(padding-top:8px !important; top:0px !important; height:3rem !important)
+m.thewire.in##.header_bar_category.text-:style(top:calc(3rem + 8px) !important) 
+m.thewire.in##.smartphone.desktop_mobile:style(padding-top:calc(5rem + 8px) !important)
+m.thewire.in/category##.category_data:style(margin-top:0px !important)
+----------------------------------------------
+
+BUSINESS STANDARD
+! 5 Dec 2025 https://www.business-standard.com
+www.business-standard.com##[href^="https://www.google.com/preferences/source"]
+www.business-standard.com##.subscribbtn
+
+NDTV
+! 7 Dec 2025 https://www.ndtv.com
+www.ndtv.com##.RdInAp_wr
+
+CARAVAN MAGAZINE
+! 11 Dec 2025 https://caravanmagazine.in
+caravanmagazine.in##.lg_cols_12.md_cols_12.sm_cols_12.widget_list_node
+caravanmagazine.in##div.spacer.svelte-1v05g1g.block_holder:nth-of-type(13)
+
+THE PRINT
+! 13 Dec 2025 https://theprint.in
+theprint.in##.tdi_77.vc_raw_html.td_block_wrap.wpb_wrapper
 ! 29 Jan 2026 https://theprint.in
 theprint.in##.tvc_main_banner
 
-! 29 Jan 2026 https://article-14.com
-article-14.com##.plausible-event-name\=header\+subscription\+bar\+clicked.header-subscribe-bar-div.justify-content-center.align-items-center.d-flex.py-3.bg-black.w-100
+OUTLOOK INDIA
+! 15 Dec 2025 https://www.outlookindia.com
+www.outlookindia.com##.ads-indicator
+www.outlookindia.com##div.text-center.ads-box.d-block
 
+DECCAN HERALD
+! 8 Jan 2026 https://www.deccanherald.com
+www.deccanherald.com##.hGdmg
 ! 29 Jan 2026 https://www.deccanherald.com
 www.deccanherald.com##.q4vW3
 
+BUSINESS TODAY
+! 9 Jan 2026 https://www.businesstoday.in
+www.businesstoday.in##.rhs_fixwhtsapp
+www.businesstoday.in##.home_page_trusted_source
+
+NATIONAL HERALD
+! 21 Jan 2026 https://www.nationalheraldindia.com
+www.nationalheraldindia.com##.bottom-sticky-m__next-button__2TJ2T
+
+ARTICLE 14
+! 29 Jan 2026 https://article-14.com
+article-14.com##.plausible-event-name\=header\+subscription\+bar\+clicked.header-subscribe-bar-div.justify-content-center.align-items-center.d-flex.py-3.bg-black.w-100
+
+REPORTERS' COLLECTIVE
 ! 30 Jan 2026 https://www.reporters-collective.in
 www.reporters-collective.in##.donation-popup
 www.reporters-collective.in##.article_sticky-top
 
-! 13 Feb 2026 https://www.newslaundry.com
-www.newslaundry.com##.V41mK
+BUSINESS WORLD
+! 6 Jan 2026 https://www.businessworld.in
+www.businessworld.in##.mobilestickybox
 
-! 17 Feb 2026 https://www.thebulwark.com
-www.thebulwark.com##p.button-wrapper
+INDIA TV NEWS
+! 5 Dec 2025 https://www.indiatvnews.com
+www.indiatvnews.com##.social-outer
 
-! 13 Mar 2026 https://www.hindustantimes.com
-www.hindustantimes.com##.inArticleAdCarouselWrapper
+MID-DAY
+! 2 Dec 2025 https://www.mid-day.com
+www.mid-day.com###mid-daycom47160
+
+MAKTOOB MEDIA
+! 24 Dec 2025 https://maktoobmedia.com
+maktoobmedia.com###tdi_71
+
+DIGIT
+! 27 Dec 2025 https://www.digit.in
+www.digit.in##.home_mobile_show.rh-container
+! 12 Jan 2026 https://www.digit.in
+www.digit.in##.digit_trusted_source
+
+----------------------------------------------------------------------INTERNATIONAL NEWS----------------------------------------------------------
+THE GUARDIAN
+! 28 Nov 2025 https://www.theguardian.com
+||sourcepoint.theguardian.com/index.html$subdocument
+
+POLITICO
+! 29 Nov 2025 https://www.politico.com
+www.politico.com##.adlib-sticky-footer
+
+HAARETZ
+! 18 Mar 2026 https://www.haaretz.com
+www.haaretz.com##.xjwzlys.x1gdln1y.xgb5sdy.x1oyu57b.x1n6c4r2.xjbyqu9.xp78jy5.x1ey2m1c.xh8yej3.x9fjoi2.xixxii4.xl56j7k.xtijo5x.x78zum5.x12awp2b.xc26acl.fe-button-ruler
+
++927 MAGAZINE
+! 9 Oct 2025 https://www.972mag.com
+www.972mag.com##.sticky
+
+ROYA NEWS
+! 25 Nov 2025 https://en.royanews.tv
+en.royanews.tv##.mobile_apps_download
+
+FOREIGN AFFAIRS
+! 3 Dec 2025 https://www.foreignaffairs.com
+www.foreignaffairs.com##.z-above-base.w-100.bottom-0.position-fixed
+www.foreignaffairs.com##.z-base.messages--container
+www.foreignaffairs.com##._repositioned.article-newsletter-signup--container
+
+THE ECONOMIST
+! 8 Jan 2026 https://www.economist.com
+www.economist.com##._incontent_1aj6h_11._advert_1aj6h_1
+
+DECLASSIFIED UK
+! 6 Dec 2025 https://www.declassifieduk.org
+www.declassifieduk.org##.et_pb_row_1_tb_header.et_pb_row
+
+YAHOO NEWS
+! 10 Dec 2025 https://ca.news.yahoo.com
+ca.news.yahoo.com##.max-md\:\!mb-auto.relative
+
+FORTUNE
+! 17 Dec 2025 https://fortune.com
+fortune.com##div.\[\:has\(\*\[data-empty\=true\]\)\]\:hidden.empty\:contents.not-prose
+
+THE CHINA ACADEMY
+! 5 Jan 2026 https://thechinaacademy.org
+thechinaacademy.org##.o-banner
+thechinaacademy.org##.cta-register-content.cta-register
+
+ANALYTICS INSIGHT
+! 7 Jan 2026 https://www.analyticsinsight.net
+www.analyticsinsight.net###ads-1715770360111
+
+RICHARD SILVERSTEIN
+! 26 Jan 2026 https://www.richardsilverstein.com
+www.richardsilverstein.com##.af-middle-header
+www.richardsilverstein.com###ss-share-hub
+
 --------------------------------------------------------------AI---------------------------------------------------------------------------------
-
 QWEN
 chat.qwen.ai##.chat-container-statement
 
@@ -487,9 +404,15 @@ www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-cen
 www.perplexity.ai##.duration-300.fade-in.animate-in
 www.perplexity.ai##.\[\&_svg\]\:translate-y-px.\[\&_svg\]\:scale-\[1\.125\]
 www.perplexity.ai##.-mx-sm.inline-flex
+! 11 Apr 2026 https://www.perplexity.ai
+www.perplexity.ai##.min-w-0.overflow-hidden.items-center.flex.gap-sm > .min-w-0
+
 
 CLAUDE AI
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
+! 25 Mar 2026 https://claude.ai
+claude.ai##.overflow-visible.relative
+claude.ai##.min-h-0.overflow-hidden.align-center.flex-grow.flex-col.flex > .px-2
 
 GROK
 grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justify-between.items-center.flex.z-50.right-0.left-0.top-0.fixed
@@ -534,6 +457,10 @@ MINIMAX
 agent.minimax.io##.z-10.relative.mb-\[24px\].mx-auto.w-fit.bg-bg_status_blue.rounded-\[8px\].gap-\[8px\].pr-\[8px\].pl-\[12px\].py-\[10px\].justify-center.items-center.flex
 agent.minimax.io##.h-8.pr-\[10px\].pl-\[6px\].rounded-\[8px\].border-border_default.border.hover\:bg-bg_interaction_tertiary_hover.gap-1.items-center.flex.text-text_default_primary
 
-
+NOTEBOOKLM
+! 14 Nov 2025 https://notebooklm.google.com
+notebooklm.google.com##.ng-star-inserted.ng-tns-c2287526256-0.mat-body-small.footer
+! 25 Dec 2025 https://notebooklm.google.com
+notebooklm.google.com##.ng-star-inserted.ng-tns-c2561536472-0.mat-body-small.footer
 
 
