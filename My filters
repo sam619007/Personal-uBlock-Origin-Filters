@@ -80,6 +80,8 @@ THE HINDU
 www.thehindu.com###sectiondivicymi
 ! 15 Oct 2025 https://www.thehindu.com
 www.thehindu.com##.col-12.col-sm-12.col-md-12.col-lg-4.col-xl-3.print-hide
+! 8 Apr 2026 https://www.thehindu.com
+www.thehindu.com##.google-btn
 
 BUSINESS LINE
 ! 24 Jan 2026 https://www.thehindubusinessline.com
@@ -271,6 +273,8 @@ BUSINESS STANDARD
 ! 5 Dec 2025 https://www.business-standard.com
 www.business-standard.com##[href^="https://www.google.com/preferences/source"]
 www.business-standard.com##.subscribbtn
+! 22 Mar 2026 https://www.business-standard.com
+www.business-standard.com##.MainStory_readapp__QvG2w
 
 NDTV
 ! 7 Dec 2025 https://www.ndtv.com
@@ -315,6 +319,12 @@ REPORTERS' COLLECTIVE
 ! 30 Jan 2026 https://www.reporters-collective.in
 www.reporters-collective.in##.donation-popup
 www.reporters-collective.in##.article_sticky-top
+
+THE INDIA FORUM
+! 25 Mar 2026 https://www.theindiaforum.in
+www.theindiaforum.in###article_pop
+www.theindiaforum.in###article_pop
+www.theindiaforum.in##.display-none.pop_under
 
 BUSINESS WORLD
 ! 6 Jan 2026 https://www.businessworld.in
@@ -381,6 +391,10 @@ FORTUNE
 ! 17 Dec 2025 https://fortune.com
 fortune.com##div.\[\:has\(\*\[data-empty\=true\]\)\]\:hidden.empty\:contents.not-prose
 
+THE POLIS PROJECT
+! 23 Mar 2026 https://thepolisproject.com
+thepolisproject.com##.eg-open
+
 THE CHINA ACADEMY
 ! 5 Jan 2026 https://thechinaacademy.org
 thechinaacademy.org##.o-banner
@@ -406,7 +420,6 @@ www.perplexity.ai##.\[\&_svg\]\:translate-y-px.\[\&_svg\]\:scale-\[1\.125\]
 www.perplexity.ai##.-mx-sm.inline-flex
 ! 11 Apr 2026 https://www.perplexity.ai
 www.perplexity.ai##.min-w-0.overflow-hidden.items-center.flex.gap-sm > .min-w-0
-
 
 CLAUDE AI
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
