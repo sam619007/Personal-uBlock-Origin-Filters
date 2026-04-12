@@ -6,6 +6,7 @@ google.*#@#style + div[data-mcpr][style^="margin-bottom:"]:has(div[data-async-ty
 google.*#@#style + div[data-mcpr][style^="margin-bottom:"] div[data-async-type="folsrch"]
 google.*#@#div[data-lhcontainer="1"][eid][data-ved] > div > div > div[jsname] > div[style="display:contents"]
 google.*#@#div[data-q][data-al]
+@@://www.google.*/async/folsrch?*&async=_basejs:*,_basecomb:*&q=$xhr
 ---------------------------------------
 
 YOUTUBE
