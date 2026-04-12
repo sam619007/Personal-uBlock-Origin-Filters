@@ -19,7 +19,8 @@ m.youtube.com##.cbMobileButton.cbTitleButton.cbButton.cbSubmitButton > svg
 ! 19 Jan 2026 https://www.youtube.com
 www.youtube.com##.ytwTimedAnimationButtonRendererHost
 www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-recognition-shelf-renderer.style-scope
-www.youtube.com##.yt-core-attributed-string--white-space-pre-wrap.chatInputViewModelChatDisclaimer.yt-core-attributed-string
+! 12 Apr 2026 https://www.youtube.com
+www.youtube.com##.ytAttributedStringWhiteSpacePreWrap.chatInputViewModelChatDisclaimer.ytAttributedStringHost
 
 SPOTIFY
 ! 10 Oct 2025 https://open.spotify.com
