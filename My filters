@@ -10,11 +10,17 @@ www.youtube.com##.ytwTimedAnimationButtonRendererHost
 www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-recognition-shelf-renderer.style-scope
 ! 12 Apr 2026 https://www.youtube.com
 www.youtube.com##.ytAttributedStringWhiteSpacePreWrap.chatInputViewModelChatDisclaimer.ytAttributedStringHost
+! 16 Apr 2026 https://m.youtube.com
+m.youtube.com##.ytAttributedStringWhiteSpacePreWrap.chatInputViewModelChatDisclaimer.ytAttributedStringHost
 
 SPOTIFY
 ! 10 Oct 2025 https://open.spotify.com
 open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
+
+REDDIT
+! 16 Apr 2026 https://www.reddit.com
+www.reddit.com##.rpl-dialog
 
 TWITTER/X
 ! 26 Nov 2025 https://x.com
