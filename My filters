@@ -452,13 +452,7 @@ chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
 chat.deepseek.com##._0fcaa63
 
 GEMINI AI
-gemini.google.com##[class*="hallucination-disclaimer"]
-gemini.google.com##.mat-unthemed.mat-mdc-unelevated-button.mdc-button--unelevated.gds-referral-button.mat-mdc-button-base.mdc-button
-gemini.google.com##.ng-star-inserted.mobile-controls > .ng-star-inserted.mat-mdc-tooltip-trigger
-gemini.google.com##.ng-star-inserted.under-input.mobile.g1-upsell-container.upgrade-container
-gemini.google.com##.ng-star-inserted.mobile-controls > .ng-star-inserted
-gemini.google.com##.ng-star-inserted.under-input.g1-upsell-container.upgrade-container
-gemini.google.com##.ng-star-inserted.desktop-controls.mdc-list.mat-mdc-list-base.mat-mdc-action-list > .ng-star-inserted
+
 
 MISTRAL AI/LE CHAT
 chat.mistral.ai##.py-5.px-4.border-basic-gray-alpha-4.border-t.p-2.gap-2.flex-col.flex
