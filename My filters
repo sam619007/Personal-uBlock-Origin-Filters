@@ -26,6 +26,7 @@ reddit.com###right-sidebar-container [style*="filter: blur"]:style(filter: none 
 reddit.com###right-sidebar-container svg[icon-name="nsfw-fill"]:style(display: none !important;)
 reddit.com###right-sidebar-container .bg-media-background:style(background: transparent !important; background-color: transparent !important;)
 reddit.com##a.viewInApp[slot="view-in-app-button"]
+reddit.com##.configured-xpromo.rpl-dialog
 
 TWITTER/X
 ! 26 Nov 2025 https://x.com
