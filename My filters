@@ -19,8 +19,13 @@ open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
 
 REDDIT
-! 16 Apr 2026 https://www.reddit.com
-www.reddit.com##.rpl-dialog
+reddit.com###blocking-modal:remove()
+reddit.com##+js(remove-attr, blurred|embed-obscured, shreddit-blurred-container[reason="nsfw"], stay)
+reddit.com##+js(trusted-suppress-native-method, CustomElementRegistry.prototype.define, '"xpromo-nsfw-blocking-container"', prevent)
+reddit.com###right-sidebar-container [style*="filter: blur"]:style(filter: none !important;)
+reddit.com###right-sidebar-container svg[icon-name="nsfw-fill"]:style(display: none !important;)
+reddit.com###right-sidebar-container .bg-media-background:style(background: transparent !important; background-color: transparent !important;)
+reddit.com##a.viewInApp[slot="view-in-app-button"]
 
 TWITTER/X
 ! 26 Nov 2025 https://x.com
@@ -437,6 +442,8 @@ claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-ce
 ! 25 Mar 2026 https://claude.ai
 claude.ai##.overflow-visible.relative
 claude.ai##.min-h-0.overflow-hidden.align-center.flex-grow.flex-col.flex > .px-2
+! 9 May 2026 https://claude.ai
+claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100
 
 GROK
 grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justify-between.items-center.flex.z-50.right-0.left-0.top-0.fixed
