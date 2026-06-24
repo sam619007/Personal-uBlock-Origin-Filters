@@ -28,10 +28,14 @@ reddit.com###right-sidebar-container .bg-media-background:style(background: tran
 reddit.com##a.viewInApp[slot="view-in-app-button"]
 reddit.com##.configured-xpromo.rpl-dialog
 reddit.com##.nd\:hidden > faceplate-tracker > .w-full
+reddit.com###sticky-comment-composer-wrapper
 
 TWITTER/X
 ! 26 Nov 2025 https://x.com
 x.com##.r-1wbh5a2.r-16y2uox.r-1t2qqvi.r-s8bhmr.r-obd0qt.r-15ysp7h.r-1777fci.r-1pz39u2.css-175oi2r > .r-dnmrzs.css-175oi2r
+
+THREADS
+www.threads.com##.xzkaem6.x1n2onr6.__fb-light-mode
 
 DUCKDUCKGO
 ! 19 Sept 2025 https://duckduckgo.com
@@ -168,6 +172,7 @@ www.livemint.com###subsId
 www.livemint.com##.menuBtm
 ! 5 Dec 2025 https://www.livemint.com
 www.livemint.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.position
+www.livemint.com###header > .containerNew > div
 
 LIVELAW
 ! 17 Aug 2025 https://www.livelaw.in
@@ -226,6 +231,9 @@ www.hindustantimes.com##.bottomMenu
 www.hindustantimes.com##.inArticlePromo
 ! 13 Mar 2026 https://www.hindustantimes.com
 www.hindustantimes.com##.inArticleAdCarouselWrapper
+www.hindustantimes.com##.AppExclusivePopup_appExclusive-overlay__QLEN3
+www.hindustantimes.com##.headMenu
+www.hindustantimes.com###ECH_HT_MWeb_TopSticky_BTF
 
 TIMES OF INDIA
 ! 20 Aug 2025 https://timesofindia.indiatimes.com
@@ -234,6 +242,9 @@ timesofindia.indiatimes.com##.noPaddingTitle.XNLUe
 ! 14 Sept 2025 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##[src]
 timesofindia.indiatimes.com##.YSIbF.F9Ip_
+timesofindia.indiatimes.com##.YWcz3
+timesofindia.indiatimes.com##.NNiKY
+timesofindia.indiatimes.com##.IvoQY
 
 THE QUINT
 ! 4 Oct 2025 https://www.thequint.com
@@ -265,6 +276,8 @@ www.moneycontrol.com##.cus_touchpoint_position.css-slideshow
 www.moneycontrol.com###fixedheader > .blp
 ! 21 Mar 2026 https://www.moneycontrol.com
 www.moneycontrol.com###bottom_sticky_menu
+www.moneycontrol.com##.mbottom.show-moblie.ads-320-250
+www.moneycontrol.com##.desk-hide
 
 TRIBUNE INDIA
 ! 25 Nov 2025 https://www.tribuneindia.com
@@ -278,6 +291,7 @@ THE WIRE
 m.thewire.in###wa2-span-popup
 m.thewire.in##.active
 thewire.in###wa2-span-popup
+m.thewire.in###unify_second_show
 ------------UI FIX---------------------------
 m.thewire.in###nav_pwa_static:style(padding-top:8px !important; top:0px !important; height:3rem !important)
 m.thewire.in##.header_bar_category.text-:style(top:calc(3rem + 8px) !important) 
@@ -456,10 +470,12 @@ Fix floating Search Bar by targeting the input placeholder in CHATGPT
 chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative !important; top: auto !important; transform: none !important; z-index: 0 !important;)
 -------------------------------------------
 chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.overflow-hidden.w-full.relative.text-token-text-secondary.-mt-4
+chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.overflow-hidden.w-full.relative.text-token-text-tertiary.-mt-4
 
 DEEPSEEK
 chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
 chat.deepseek.com##._0fcaa63
+chat.deepseek.com##._9579690
 
 GEMINI AI
 gemini.google.com##[class*="hallucination-disclaimer"]
@@ -467,11 +483,13 @@ gemini.google.com##.mat-unthemed.mat-mdc-unelevated-button.mdc-button--unelevate
 gemini.google.com##.ng-star-inserted.mobile-controls > .ng-star-inserted.mat-mdc-tooltip-trigger
 gemini.google.com##.ng-star-inserted.under-input.mobile.g1-upsell-container.upgrade-container
 gemini.google.com##.ng-star-inserted.under-input.g1-upsell-container.upgrade-container
+gemini.google.com##.mobile-controls-list.gds-sidenav-list.mdc-list.mat-mdc-list-base.mat-mdc-action-list
 
 MISTRAL AI/LE CHAT
 chat.mistral.ai##.py-5.px-4.border-basic-gray-alpha-4.border-t.p-2.gap-2.flex-col.flex
 chat.mistral.ai##.md\:px-12.sm\:px-8.text-muted.text-xs.text-center.py-3.px-2.max-w-6xl
 chat.mistral.ai##[href="/upgrade"]
+chat.mistral.ai##.py-5.px-4.border-t.border-basic-gray-alpha-4.p-1.gap-2.flex-col.flex
 chat.mistral.ai##.py-5.px-4.border-t.border-basic-gray-alpha-4.p-1.gap-2.flex-col.flex
 
 MICROSOFT COPILOT 
@@ -488,11 +506,11 @@ www.kimi.com##.membership-upgrade
 MINIMAX
 agent.minimax.io##.z-10.relative.mb-\[24px\].mx-auto.w-fit.bg-bg_status_blue.rounded-\[8px\].gap-\[8px\].pr-\[8px\].pl-\[12px\].py-\[10px\].justify-center.items-center.flex
 agent.minimax.io##.h-8.pr-\[10px\].pl-\[6px\].rounded-\[8px\].border-border_default.border.hover\:bg-bg_interaction_tertiary_hover.gap-1.items-center.flex.text-text_default_primary
+agent.minimax.io##.mavis-popover.hover\:bg-bg_interaction_tertiary_hover.text-text_default_primary.leading-5.text-sm.pr-\[14px\].pl-\[10px\].py-\[6px\].bg-bg_grouped_secondary.border-border_default.border.rounded-\[8px\].gap-\[2px\].justify-center.items-center.h-8.flex
+agent.minimax.io##.cursor-pointer.h-8.pr-\[10px\].pl-\[6px\].rounded-\[8px\].border-border_default.border.hover\:bg-bg_interaction_tertiary_hover.gap-\[2px\].items-center.flex.text-text_default_primary
 
 NOTEBOOKLM
-! 14 Nov 2025 https://notebooklm.google.com
 notebooklm.google.com##.ng-star-inserted.ng-tns-c2287526256-0.mat-body-small.footer
-! 25 Dec 2025 https://notebooklm.google.com
 notebooklm.google.com##.ng-star-inserted.ng-tns-c2561536472-0.mat-body-small.footer
 
 
