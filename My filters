@@ -27,6 +27,7 @@ reddit.com###right-sidebar-container svg[icon-name="nsfw-fill"]:style(display: n
 reddit.com###right-sidebar-container .bg-media-background:style(background: transparent !important; background-color: transparent !important;)
 reddit.com##a.viewInApp[slot="view-in-app-button"]
 reddit.com##.configured-xpromo.rpl-dialog
+reddit.com##.nd\:hidden > faceplate-tracker > .w-full
 
 TWITTER/X
 ! 26 Nov 2025 https://x.com
@@ -471,6 +472,7 @@ MISTRAL AI/LE CHAT
 chat.mistral.ai##.py-5.px-4.border-basic-gray-alpha-4.border-t.p-2.gap-2.flex-col.flex
 chat.mistral.ai##.md\:px-12.sm\:px-8.text-muted.text-xs.text-center.py-3.px-2.max-w-6xl
 chat.mistral.ai##[href="/upgrade"]
+chat.mistral.ai##.py-5.px-4.border-t.border-basic-gray-alpha-4.p-1.gap-2.flex-col.flex
 
 MICROSOFT COPILOT 
 copilot.microsoft.com##.text-xs.cursor-pointer.shrink-0.max-w-64.dark\:after\:border-white\/10.after\:border-black\/10.after\:border.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.after\:contrast-more\:border-2.after\:pointer-events-none.after\:inset-0.after\:absolute.after\:rounded-xl.rounded-xl.gap-x-1\.5.py-1.px-2\.5.min-w-8.min-h-8.justify-start.dark\:active\:bg-white\/5.dark\:safe-hover\:bg-white\/8.active\:bg-white\/35.safe-hover\:bg-white\/50.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.items-center.flex.relative
