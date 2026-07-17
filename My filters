@@ -28,7 +28,7 @@ reddit.com##.blur-lg:style(filter: none !important; opacity: 1 !important;)
 reddit.com##.blur-md:style(filter: none !important; opacity: 1 !important;)
 reddit.com##.blur-xl:style(filter: none !important; opacity: 1 !important;)
 reddit.com##faceplate-img:style(filter: none !important; opacity: 1 !important;)
-reddit.com##.pointer-events-none:style(pointer-events: auto !important;)
+reddit.com##shreddit-search-results .pointer-events-none:style(pointer-events: auto !important;)
 reddit.com###blocking-modal:remove()
 reddit.com##+js(remove-attr, blurred|embed-obscured, shreddit-blurred-container[reason="nsfw"], stay)
 reddit.com##+js(set-cookie, over18, 1)
@@ -363,7 +363,7 @@ ARTICLE 14
 ! 29 Jan 2026 https://article-14.com
 article-14.com##.plausible-event-name\=header\+subscription\+bar\+clicked.header-subscribe-bar-div.justify-content-center.align-items-center.d-flex.py-3.bg-black.w-100
 
-REPORTERS' COLLECTIVE
+!---REPORTERS' COLLECTIVE
 ! 30 Jan 2026 https://www.reporters-collective.in
 www.reporters-collective.in##.donation-popup
 www.reporters-collective.in##.article_sticky-top
@@ -419,7 +419,7 @@ HAARETZ
 ! 18 Mar 2026 https://www.haaretz.com
 www.haaretz.com##.xjwzlys.x1gdln1y.xgb5sdy.x1oyu57b.x1n6c4r2.xjbyqu9.xp78jy5.x1ey2m1c.xh8yej3.x9fjoi2.xixxii4.xl56j7k.xtijo5x.x78zum5.x12awp2b.xc26acl.fe-button-ruler
 
-+927 MAGAZINE
+!---+927 MAGAZINE
 ! 9 Oct 2025 https://www.972mag.com
 www.972mag.com##.sticky
 
