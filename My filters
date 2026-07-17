@@ -39,7 +39,7 @@ reddit.com##a.viewInApp[slot="view-in-app-button"]
 reddit.com##.configured-xpromo.rpl-dialog
 reddit.com##.nd\:hidden > faceplate-tracker > .w-full
 reddit.com###sticky-comment-composer-wrapper
-reddit.com##shreddit-composer:style(max-height: 48px !important; min-height: 48px !important; overflow: hidden !important;)
+reddit.com##.cursor-pointer.text-neutral-content.opacity-100.w-full
 
 TWITTER/X
 ! 26 Nov 2025 https://x.com
