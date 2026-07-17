@@ -19,6 +19,16 @@ open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
 
 REDDIT
+reddit.com##+js(trusted-suppress-native-method, CustomElementRegistry.prototype.define, '"xpromo-nsfw-blocking-container"', prevent)
+reddit.com##+js(remove-attr, blurred|embed-obscured, [blurred], stay)
+reddit.com##+js(trusted-suppress-native-method, Element.prototype.querySelector, '"div[slot="revealed"]"', prevent)
+reddit.com##+js(trusted-set, HTMLElement.prototype.__blurred, json:false)
+reddit.com##+js(remove-attr, blurred|embed-obscured, shreddit-blurred-container[reason="nsfw"], stay)
+reddit.com##.blur-lg:style(filter: none !important; opacity: 1 !important;)
+reddit.com##.blur-md:style(filter: none !important; opacity: 1 !important;)
+reddit.com##.blur-xl:style(filter: none !important; opacity: 1 !important;)
+reddit.com##faceplate-img:style(filter: none !important; opacity: 1 !important;)
+reddit.com##.pointer-events-none:style(pointer-events: auto !important;)
 reddit.com###blocking-modal:remove()
 reddit.com##+js(remove-attr, blurred|embed-obscured, shreddit-blurred-container[reason="nsfw"], stay)
 reddit.com##+js(set-cookie, over18, 1)
@@ -48,6 +58,9 @@ www.swiggy.com##._3nLOm
 MAKEMYTRIP
 ! 17 Nov 2025 https://www.makemytrip.com
 www.makemytrip.com##.AppDownloadBanner_container__zntqv
+
+GO COMICS 
+www.gocomics.com##.Paywall-module-scss-module__RVZxSG__upsell
 
 TOPRANKERS
 ! --- Toprankers Video Fix Start ---
@@ -145,6 +158,8 @@ www.newslaundry.com##.V41mK
 ! 6 Dec 2025 https://hindi.newslaundry.com
 hindi.newslaundry.com##.b5Cw7
 hindi.newslaundry.com##.vkm2D
+www.newslaundry.com##.story-element-jsembed.story-element
+www.newslaundry.com##.lZ4IB
 
 THE MINT
 ! 17 Aug 2025 https://www.livemint.com
@@ -234,6 +249,8 @@ www.hindustantimes.com##.inArticleAdCarouselWrapper
 www.hindustantimes.com##.AppExclusivePopup_appExclusive-overlay__QLEN3
 www.hindustantimes.com##.headMenu
 www.hindustantimes.com###ECH_HT_MWeb_TopSticky_BTF
+www.hindustantimes.com##.nextStoryItem.jsx-c408190476e82587
+www.hindustantimes.com##.prevStoryItem.jsx-c408190476e82587
 
 TIMES OF INDIA
 ! 20 Aug 2025 https://timesofindia.indiatimes.com
@@ -285,6 +302,7 @@ www.tribuneindia.com##.pref_src_main_container
 ! 21 Jan 2026 https://www.tribuneindia.com
 www.tribuneindia.com##.goPremiumWrapper
 www.tribuneindia.com##.custom-icon-fixed
+www.tribuneindia.com##.show.genz-wrapper
 
 THE WIRE
 ! 26 Nov 2025 https://m.thewire.in
@@ -378,6 +396,16 @@ www.digit.in##.home_mobile_show.rh-container
 ! 12 Jan 2026 https://www.digit.in
 www.digit.in##.digit_trusted_source
 
+TIMES NOW
+www.timesnownews.com##.ArticleShow_AdCaller__nd4Gb
+www.timesnownews.com##.PrevNext_nextArticle__8v_m4
+www.timesnownews.com##.FooterNav_bottomStickyAd__NT0VP
+www.timesnownews.com###CubeRow
+www.timesnownews.com##.adCaller_specificAd__j0Y_E.adCaller_overflow-hidden__jLJZj
+www.timesnownews.com##div.adCaller_overflow-hidden__jLJZj
+www.timesnownews.com##.Header_Headerad__EpmhF
+www.timesnownews.com##.SocialShare_Share__zm1q_
+
 ----------------------------------------------------------------------INTERNATIONAL NEWS----------------------------------------------------------
 THE GUARDIAN
 ! 28 Nov 2025 https://www.theguardian.com
@@ -439,6 +467,9 @@ RICHARD SILVERSTEIN
 www.richardsilverstein.com##.af-middle-header
 www.richardsilverstein.com###ss-share-hub
 
+THE COMMUNIST INTERNATIONAL
+com-intern.org##.is-position-sticky.wp-container-2.wp-block-group-is-layout-constrained.wp-container-core-group-is-layout-79b316e7.is-layout-constrained.has-global-padding.has-background.has-text-color.has-primary-background-color.has-background-color.side-panel.wp-block-group
+
 --------------------------------------------------------------AI---------------------------------------------------------------------------------
 QWEN
 chat.qwen.ai##.chat-container-statement
@@ -452,6 +483,7 @@ www.perplexity.ai##.-mx-sm.inline-flex
 www.perplexity.ai##.min-w-0.overflow-hidden.items-center.flex.gap-sm > .min-w-0
 ! 26 Apr 2026 https://www.perplexity.ai
 www.perplexity.ai##.w-sidebarPinnedWidth
+www.perplexity.ai##.divide-subtlest.ring-subtlest.border-subtlest.overflow-x-auto.grid-flow-col.auto-cols-max.grid.scrollbar-none.px-pageHorizontalPadding.-mx-pageHorizontalPadding.gap-sm
 
 CLAUDE AI
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
@@ -471,6 +503,8 @@ chatgpt.com##div:has(input[placeholder="Search GPTs"]):style(position: relative 
 -------------------------------------------
 chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.overflow-hidden.w-full.relative.text-token-text-secondary.-mt-4
 chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.overflow-hidden.w-full.relative.text-token-text-tertiary.-mt-4
+chatgpt.com##.-mt-4
+chatgpt.com##.group-\[\:not\(\[data-show-disclaimer\]\)\]\/scroll-root\:opacity-0.group-\[\:not\(\[data-show-disclaimer\]\)\]\/scroll-root\:duration-50.group-\[\:not\(\[data-show-disclaimer\]\)\]\/scroll-root\:pointer-events-none.duration-250.transition-opacity.bottom-\[calc\(100\%\+1\*var\(--spacing\)\)\].inset-x-0.absolute.\[view-transition-name\:var\(--vt-disclaimer\)\].text-token-text-tertiary.text-xs.text-center.pb-3.pt-2.min-h-9
 
 DEEPSEEK
 chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
@@ -491,6 +525,7 @@ chat.mistral.ai##.md\:px-12.sm\:px-8.text-muted.text-xs.text-center.py-3.px-2.ma
 chat.mistral.ai##[href="/upgrade"]
 chat.mistral.ai##.py-5.px-4.border-t.border-basic-gray-alpha-4.p-1.gap-2.flex-col.flex
 chat.mistral.ai##.py-5.px-4.border-t.border-basic-gray-alpha-4.p-1.gap-2.flex-col.flex
+chat.mistral.ai##[href="https://admin.mistral.ai/subscriptions/upgrade"]
 
 MICROSOFT COPILOT 
 copilot.microsoft.com##.text-xs.cursor-pointer.shrink-0.max-w-64.dark\:after\:border-white\/10.after\:border-black\/10.after\:border.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.after\:contrast-more\:border-2.after\:pointer-events-none.after\:inset-0.after\:absolute.after\:rounded-xl.rounded-xl.gap-x-1\.5.py-1.px-2\.5.min-w-8.min-h-8.justify-start.dark\:active\:bg-white\/5.dark\:safe-hover\:bg-white\/8.active\:bg-white\/35.safe-hover\:bg-white\/50.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.items-center.flex.relative
@@ -508,6 +543,10 @@ agent.minimax.io##.z-10.relative.mb-\[24px\].mx-auto.w-fit.bg-bg_status_blue.rou
 agent.minimax.io##.h-8.pr-\[10px\].pl-\[6px\].rounded-\[8px\].border-border_default.border.hover\:bg-bg_interaction_tertiary_hover.gap-1.items-center.flex.text-text_default_primary
 agent.minimax.io##.mavis-popover.hover\:bg-bg_interaction_tertiary_hover.text-text_default_primary.leading-5.text-sm.pr-\[14px\].pl-\[10px\].py-\[6px\].bg-bg_grouped_secondary.border-border_default.border.rounded-\[8px\].gap-\[2px\].justify-center.items-center.h-8.flex
 agent.minimax.io##.cursor-pointer.h-8.pr-\[10px\].pl-\[6px\].rounded-\[8px\].border-border_default.border.hover\:bg-bg_interaction_tertiary_hover.gap-\[2px\].items-center.flex.text-text_default_primary
+
+LUMO AI
+lumo.proton.me##.overflow-y-auto.mx-auto.mb-0.ml-0.rounded-xl.sidebar-upsell-section
+lumo.proton.me##.min-w-0.gap-2.items-center.flex-nowrap.flex.model-mode-upgrade
 
 NOTEBOOKLM
 notebooklm.google.com##.ng-star-inserted.ng-tns-c2287526256-0.mat-body-small.footer
