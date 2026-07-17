@@ -21,7 +21,7 @@ open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-910
 REDDIT
 reddit.com###blocking-modal:remove()
 reddit.com##+js(remove-attr, blurred|embed-obscured, shreddit-blurred-container[reason="nsfw"], stay)
-reddit.com##+js(trusted-suppress-native-method, CustomElementRegistry.prototype.define, '"xpromo-nsfw-blocking-container"', prevent)
+reddit.com##+js(set-cookie, over18, 1)
 reddit.com###right-sidebar-container [style*="filter: blur"]:style(filter: none !important;)
 reddit.com###right-sidebar-container svg[icon-name="nsfw-fill"]:style(display: none !important;)
 reddit.com###right-sidebar-container .bg-media-background:style(background: transparent !important; background-color: transparent !important;)
