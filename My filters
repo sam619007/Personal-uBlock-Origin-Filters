@@ -38,7 +38,6 @@ reddit.com###right-sidebar-container .bg-media-background:style(background: tran
 reddit.com##a.viewInApp[slot="view-in-app-button"]
 reddit.com##.configured-xpromo.rpl-dialog
 reddit.com##.nd\:hidden > faceplate-tracker > .w-full
-reddit.com###sticky-comment-composer-wrapper
 
 TWITTER/X
 ! 26 Nov 2025 https://x.com
