@@ -504,6 +504,7 @@ chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].t
 chatgpt.com##.md\:px-\[60px\].\[view-transition-name\:var\(--vt-disclaimer\)\].text-xs.text-center.overflow-hidden.w-full.relative.text-token-text-tertiary.-mt-4
 chatgpt.com##.-mt-4
 chatgpt.com##.group-\[\:not\(\[data-show-disclaimer\]\)\]\/scroll-root\:opacity-0.group-\[\:not\(\[data-show-disclaimer\]\)\]\/scroll-root\:duration-50.group-\[\:not\(\[data-show-disclaimer\]\)\]\/scroll-root\:pointer-events-none.duration-250.transition-opacity.bottom-\[calc\(100\%\+1\*var\(--spacing\)\)\].inset-x-0.absolute.\[view-transition-name\:var\(--vt-disclaimer\)\].text-token-text-tertiary.text-xs.text-center.pb-3.pt-2.min-h-9
+chatgpt.com##.grid.mt-auto
 
 DEEPSEEK
 chat.deepseek.com##.ds-basic-button--outlined.ds-basic-button.ds-atom-button
@@ -525,6 +526,7 @@ chat.mistral.ai##[href="/upgrade"]
 chat.mistral.ai##.py-5.px-4.border-t.border-basic-gray-alpha-4.p-1.gap-2.flex-col.flex
 chat.mistral.ai##.py-5.px-4.border-t.border-basic-gray-alpha-4.p-1.gap-2.flex-col.flex
 chat.mistral.ai##[href="https://admin.mistral.ai/subscriptions/upgrade"]
+chat.mistral.ai##.sm\:hidden.justify-center.grow.flex > [href]
 
 MICROSOFT COPILOT 
 copilot.microsoft.com##.text-xs.cursor-pointer.shrink-0.max-w-64.dark\:after\:border-white\/10.after\:border-black\/10.after\:border.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.after\:contrast-more\:border-2.after\:pointer-events-none.after\:inset-0.after\:absolute.after\:rounded-xl.rounded-xl.gap-x-1\.5.py-1.px-2\.5.min-w-8.min-h-8.justify-start.dark\:active\:bg-white\/5.dark\:safe-hover\:bg-white\/8.active\:bg-white\/35.safe-hover\:bg-white\/50.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.items-center.flex.relative
