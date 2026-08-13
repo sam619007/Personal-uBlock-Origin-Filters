@@ -1,20 +1,16 @@
 YOUTUBE
-!------YOUTUBE, DEARROW PENCIL REMOVAL---------- 11 Dec 2025 https://www.youtube.com
+!------YOUTUBE, DEARROW PENCIL REMOVAL---------- 
 www.youtube.com##.cbTitleButton.cbButton.cbSubmitButton
 
-!------YOUTUBE, DEARROW PENCIL REMOVAL on Firefox Mobile----------20 Dec 2025 https://m.youtube.com
+!------YOUTUBE, DEARROW PENCIL REMOVAL on Firefox Mobile----------
 m.youtube.com##.cbMobileButton.cbTitleButton.cbButton.cbSubmitButton > svg
 
-! 19 Jan 2026 https://www.youtube.com
 www.youtube.com##.ytwTimedAnimationButtonRendererHost
 www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-recognition-shelf-renderer.style-scope
-! 12 Apr 2026 https://www.youtube.com
 www.youtube.com##.ytAttributedStringWhiteSpacePreWrap.chatInputViewModelChatDisclaimer.ytAttributedStringHost
-! 16 Apr 2026 https://m.youtube.com
 m.youtube.com##.ytAttributedStringWhiteSpacePreWrap.chatInputViewModelChatDisclaimer.ytAttributedStringHost
 
 SPOTIFY
-! 10 Oct 2025 https://open.spotify.com
 open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
 
@@ -40,22 +36,19 @@ reddit.com##.configured-xpromo.rpl-dialog
 reddit.com##.nd\:hidden > faceplate-tracker > .w-full
 
 TWITTER/X
-! 26 Nov 2025 https://x.com
 x.com##.r-1wbh5a2.r-16y2uox.r-1t2qqvi.r-s8bhmr.r-obd0qt.r-15ysp7h.r-1777fci.r-1pz39u2.css-175oi2r > .r-dnmrzs.css-175oi2r
+x.com##.r-1wbh5a2.r-16y2uox.r-1t2qqvi.r-s8bhmr.r-obd0qt.r-15ysp7h.r-1777fci.r-1pz39u2.css-g5y9jx > .r-dnmrzs.css-g5y9jx
 
 THREADS
 www.threads.com##.xzkaem6.x1n2onr6.__fb-light-mode
 
 DUCKDUCKGO
-! 19 Sept 2025 https://duckduckgo.com
 duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
 
 SWIGGY
-! 27 Oct 2025 https://www.swiggy.com
 www.swiggy.com##._3nLOm
 
 MAKEMYTRIP
-! 17 Nov 2025 https://www.makemytrip.com
 www.makemytrip.com##.AppDownloadBanner_container__zntqv
 
 GO COMICS 
@@ -101,20 +94,15 @@ SUBSTACK
 ! -------------------------------------------
 
 1MG
-! 30 Dec 2025 https://www.1mg.com
 www.1mg.com##[href^="https://deep-route.1mg.com/"]
 
 ---------------------------------------------------------INDIAN NEWS-------------------------------------------------------------------------
 THE HINDU
-! 17 Aug 2025 https://www.thehindu.com
 www.thehindu.com###sectiondivicymi
-! 15 Oct 2025 https://www.thehindu.com
 www.thehindu.com##.col-12.col-sm-12.col-md-12.col-lg-4.col-xl-3.print-hide
-! 8 Apr 2026 https://www.thehindu.com
 www.thehindu.com##.google-btn
 
 BUSINESS LINE
-! 24 Jan 2026 https://www.thehindubusinessline.com
 www.thehindubusinessline.com##.navigations-icon
 www.thehindubusinessline.com##.ad-lead-txt
 www.thehindubusinessline.com###tag-related
@@ -122,14 +110,12 @@ www.thehindubusinessline.com##.mobile-top-ad
 www.thehindubusinessline.com##.mobile-inarticle-ad
 
 FRONTLINE
-! 17 Aug 2025 https://frontline.thehindu.com
 frontline.thehindu.com###piano_homepage_lead
 frontline.thehindu.com###hp-piano-top1
 frontline.thehindu.com###piano-subscribe-box
 frontline.thehindu.com##.mb-3.pt-4.dark-spliter
 frontline.thehindu.com###piano-hp-bottom1
 frontline.thehindu.com###piano-newsletter-box
-! 4 Oct 2025 https://frontline.thehindu.com
 frontline.thehindu.com###piano-sec-top
 frontline.thehindu.com###piano-sec-subscribe-box
 frontline.thehindu.com###piano-sec-bottom
@@ -148,6 +134,7 @@ indianexpress.com###evnav_subscribe_ham
 ! 27 Dec 2025 https://indianexpress.com
 indianexpress.com##.ie-has-inline-image > [href]
 indianexpress.com##.floating-nav__right.floating-nav
+indianexpress.com##.ie-read-in-app
 
 NEWSLAUNDRY
 ! 11 Aug 2025 https://www.newslaundry.com
@@ -326,6 +313,7 @@ www.business-standard.com##.MainStory_readapp__QvG2w
 NDTV
 ! 7 Dec 2025 https://www.ndtv.com
 www.ndtv.com##.RdInAp_wr
+www.ndtv.com##.crs-stk
 
 CARAVAN MAGAZINE
 ! 11 Dec 2025 https://caravanmagazine.in
@@ -377,6 +365,11 @@ BUSINESS WORLD
 ! 6 Jan 2026 https://www.businessworld.in
 www.businessworld.in##.mobilestickybox
 
+ZEE BUSINESS
+www.zeebiz.com##.ads_fixed__LnReP.ads_adsBlock__8hCp1
+www.zeebiz.com##.ads_adsBlock__8hCp1
+www.zeebiz.com##.ads_adsBlock___jB2b
+
 INDIA TV NEWS
 ! 5 Dec 2025 https://www.indiatvnews.com
 www.indiatvnews.com##.social-outer
@@ -405,6 +398,9 @@ www.timesnownews.com##div.adCaller_overflow-hidden__jLJZj
 www.timesnownews.com##.Header_Headerad__EpmhF
 www.timesnownews.com##.SocialShare_Share__zm1q_
 
+BHASKAR ENGLISH
+www.bhaskarenglish.in##.b06c8b9b.cf559a0e
+www.bhaskarenglish.in##.f9b352a5
 ----------------------------------------------------------------------INTERNATIONAL NEWS----------------------------------------------------------
 THE GUARDIAN
 ! 28 Nov 2025 https://www.theguardian.com
@@ -478,11 +474,10 @@ www.perplexity.ai##.px-2\.5.h-8.text-sm.inline-flex.whitespace-nowrap.origin-cen
 www.perplexity.ai##.duration-300.fade-in.animate-in
 www.perplexity.ai##.\[\&_svg\]\:translate-y-px.\[\&_svg\]\:scale-\[1\.125\]
 www.perplexity.ai##.-mx-sm.inline-flex
-! 11 Apr 2026 https://www.perplexity.ai
 www.perplexity.ai##.min-w-0.overflow-hidden.items-center.flex.gap-sm > .min-w-0
-! 26 Apr 2026 https://www.perplexity.ai
 www.perplexity.ai##.w-sidebarPinnedWidth
 www.perplexity.ai##.divide-subtlest.ring-subtlest.border-subtlest.overflow-x-auto.grid-flow-col.auto-cols-max.grid.scrollbar-none.px-pageHorizontalPadding.-mx-pageHorizontalPadding.gap-sm
+www.perplexity.ai##.divide-subtlest.ring-subtlest.border-subtlest.overflow-x-auto.grid-flow-col.auto-cols-max.grid.scrollbar-none.px-pageHorizontalPadding.-mx-pageHorizontalPadding.gap-2
 
 CLAUDE AI
 claude.ai##.select-none.text-text-500.bg-bg-300.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
@@ -491,6 +486,8 @@ claude.ai##.overflow-visible.relative
 claude.ai##.min-h-0.overflow-hidden.align-center.flex-grow.flex-col.flex > .px-2
 ! 9 May 2026 https://claude.ai
 claude.ai##.py-2.text-xs.text-center.text-text-500.bg-bg-100
+claude.ai##.bg-neutral-30.pointer-events-auto.duration-150.transition-opacity.select-none.text-muted.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
+claude.ai##.py-2.text-xs.text-center.text-muted.bg-surface-1
 
 GROK
 grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justify-between.items-center.flex.z-50.right-0.left-0.top-0.fixed
@@ -527,6 +524,7 @@ chat.mistral.ai##.py-5.px-4.border-t.border-basic-gray-alpha-4.p-1.gap-2.flex-co
 chat.mistral.ai##.py-5.px-4.border-t.border-basic-gray-alpha-4.p-1.gap-2.flex-col.flex
 chat.mistral.ai##[href="https://admin.mistral.ai/subscriptions/upgrade"]
 chat.mistral.ai##.sm\:hidden.justify-center.grow.flex > [href]
+chat.mistral.ai##.outline-4.font-medium.text-sm.py-2\.5.px-3.border-1.gap-2.justify-between.items-center.flex.outline-basic-gray-alpha-4.bg-default.border-default.rounded-4.group\/link
 
 MICROSOFT COPILOT 
 copilot.microsoft.com##.text-xs.cursor-pointer.shrink-0.max-w-64.dark\:after\:border-white\/10.after\:border-black\/10.after\:border.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.after\:contrast-more\:border-2.after\:pointer-events-none.after\:inset-0.after\:absolute.after\:rounded-xl.rounded-xl.gap-x-1\.5.py-1.px-2\.5.min-w-8.min-h-8.justify-start.dark\:active\:bg-white\/5.dark\:safe-hover\:bg-white\/8.active\:bg-white\/35.safe-hover\:bg-white\/50.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.items-center.flex.relative
@@ -538,6 +536,7 @@ KIMI AI
 www.kimi.com##.download-button
 www.kimi.com##.download-app-btn
 www.kimi.com##.membership-upgrade
+www.kimi.com##.user-download-wrapper
 
 MINIMAX
 agent.minimax.io##.z-10.relative.mb-\[24px\].mx-auto.w-fit.bg-bg_status_blue.rounded-\[8px\].gap-\[8px\].pr-\[8px\].pl-\[12px\].py-\[10px\].justify-center.items-center.flex
@@ -548,9 +547,11 @@ agent.minimax.io##.cursor-pointer.h-8.pr-\[10px\].pl-\[6px\].rounded-\[8px\].bor
 LUMO AI
 lumo.proton.me##.overflow-y-auto.mx-auto.mb-0.ml-0.rounded-xl.sidebar-upsell-section
 lumo.proton.me##.min-w-0.gap-2.items-center.flex-nowrap.flex.model-mode-upgrade
+lumo.proton.me##.lumo-upgrade-trigger.lumo-plus-upgrade-button.upsell-addon-button.shrink-0.button-solid-norm.button-medium.button
 
 NOTEBOOKLM
 notebooklm.google.com##.ng-star-inserted.ng-tns-c2287526256-0.mat-body-small.footer
 notebooklm.google.com##.ng-star-inserted.ng-tns-c2561536472-0.mat-body-small.footer
 
-
+DUCKDUCKGO AI
+duck.ai##.pEpgAp_uV2lfaCYzOoNa
