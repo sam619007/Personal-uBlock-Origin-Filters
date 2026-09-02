@@ -41,6 +41,7 @@ reddit.com###right-sidebar-container .bg-media-background:style(background: tran
 reddit.com##a.viewInApp[slot="view-in-app-button"]
 reddit.com##.configured-xpromo.rpl-dialog
 reddit.com##.nd\:hidden > faceplate-tracker > .w-full
+www.reddit.com###sticky-community-header-open-app-cta
 
 TWITTER/X
 x.com##.r-1wbh5a2.r-16y2uox.r-1t2qqvi.r-s8bhmr.r-obd0qt.r-15ysp7h.r-1777fci.r-1pz39u2.css-175oi2r > .r-dnmrzs.css-175oi2r
