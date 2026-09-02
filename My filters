@@ -425,8 +425,8 @@ www.perplexity.ai#@#.bottom-2
 
 CLAUDE AI
 claude.ai##.bg-neutral-30.pointer-events-auto.duration-150.transition-opacity.select-none.text-muted.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
-claude.ai###_r_55_
 claude.ai##.flex-1.text-muted.items-center.min-w-0.flex
+claude.ai##.df-link-card.df-chrome-btn.px-0.w-control.aspect-square.\[\&\[data-initial-focus\]\:focus\]\:shadow-focus.focus-visible\:shadow-focus.aria-pressed\:text-accent.font-normal.text-primary.duration-fast.transition-shadow.disabled\:pointer-events-none.\[\&\:disabled\:not\(\[aria-busy\]\)\]\:opacity-disabled.text-body.font-sans.h-control.rounded.\[\&\[data-initial-focus\]\:focus\]\:outline-hidden.focus-visible\:outline-hidden.outline-none.border-0.data-\[disabled\]\:cursor-default.aria-disabled\:cursor-default.cursor-\[var\(--cds-cursor-interactive\)\].select-none.whitespace-nowrap.gap-1\.5.justify-center.items-center.shrink-0.inline-flex.isolate.relative.group\/btn.cds-reset
 
 GROK
 grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justify-between.items-center.flex.z-50.right-0.left-0.top-0.fixed
