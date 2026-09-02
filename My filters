@@ -17,6 +17,10 @@ www.google.com##.agaKn
 !--------GOOGLE WORKSPACE
 docs.google.com###workspace-onegoogle-pep-container
 
+MICROSOFT ONEDRIVE
+onedrive.live.com##.bannerGleam_7ff103ac.storageUpsellBanner_7ff103ac
+onedrive.live.com##.premiumBtnContainerResponsive_28037b6b
+
 SPOTIFY
 open.spotify.com##a.l9jXCgwpKjI3XqMWYv4T:nth-of-type(4)
 open.spotify.com##.l9jXCgwpKjI3XqMWYv4T.e-91000-button-tertiary--condensed.e-91000-overflow-wrap-anywhere.encore-text-body-medium-bold.giZtyl.Button-sc-1dqy6lx-0
@@ -472,6 +476,8 @@ chat.mistral.ai##[href^="https://admin.mistral.ai/subscriptions/upgrade/plans"]
 
 MICROSOFT COPILOT 
 copilot.microsoft.com##.text-xs.cursor-pointer.shrink-0.max-w-64.dark\:after\:border-white\/10.after\:border-black\/10.after\:border.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.after\:contrast-more\:border-2.after\:pointer-events-none.after\:inset-0.after\:absolute.after\:rounded-xl.rounded-xl.gap-x-1\.5.py-1.px-2\.5.min-w-8.min-h-8.justify-start.dark\:active\:bg-white\/5.dark\:safe-hover\:bg-white\/8.active\:bg-white\/35.safe-hover\:bg-white\/50.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.items-center.flex.relative
+copilot.com##._6d9dc20bc85e60f9.f3ae996211cce039
+copilot.com##.f1jlhsmd.f1xdg43u.___12pwcie
 
 BAIDU ERNIE AI
 ernie.baidu.com##.footer--bottomInputStyle__lrrzRTld.footer__PPSho3NC.footer__du6PsobB
