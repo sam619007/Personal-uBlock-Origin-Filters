@@ -424,7 +424,9 @@ www.perplexity.ai##.divide-subtlest.ring-subtlest.border-subtlest.overflow-x-aut
 www.perplexity.ai#@#.bottom-2
 
 CLAUDE AI
-
+claude.ai##.bg-neutral-30.pointer-events-auto.duration-150.transition-opacity.select-none.text-muted.sm\:font-base.font-small.text-center.pr-2\.5.pl-2.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5
+claude.ai###_r_55_
+claude.ai##.flex-1.text-muted.items-center.min-w-0.flex
 
 GROK
 grok.com##.py-2\.5.px-2.border-toggle-border.border-b.bg-background.gap-2.justify-between.items-center.flex.z-50.right-0.left-0.top-0.fixed
